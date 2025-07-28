@@ -26,7 +26,7 @@ author:
   name             : "Han Yutang"
   bio              : "Master student in HKU"
   email            : "sample.com" 
-  location         : "Shanghai"
+  location         : "Shanghai, China"
 
   # Academic websites
   academia         : # URL
@@ -70,7 +70,7 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : HYT
+  xing             : # HYT
   youtube          : # Username
   zhihu            : # Username
 
