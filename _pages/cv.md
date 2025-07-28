@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc(Eng). in Electrical and Electronic Engineering, The University of Hong Kong, HK SAR China, 2024 - 2026
-* B.Eng. in Electronic Information Engineering, Shanghai University, Shanghai China, 2020 - 2024
+* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), 2024 - 2026
+* B.Eng. in Electronic Information Engineering, Shanghai University, 2020 - 2024
 
 Work experience
 ======
