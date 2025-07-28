@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), 2024 - 2026
-* B.Eng. in Electronic Information Engineering, Shanghai University, 2020 - 2024
+* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/), 2020 - 2024
 
 Work experience
 ======
