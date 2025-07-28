@@ -25,13 +25,13 @@ author:
   avatar           : "profile.png"
   name             : "Han Yutang"
   bio              : "Master student in HKU"
-  email            : "sample.com" 
+  email            : "ythan@connect.hku.hk" 
   location         : "Shanghai, China"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
