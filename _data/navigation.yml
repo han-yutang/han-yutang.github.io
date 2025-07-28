@@ -9,13 +9,13 @@
 
 main:
     - title: "CV"
-    url: /cv/
+      url: /cv/
     
     - title: "Publications"
-    url: /publications/
+      url: /publications/
 
     - title: "Blog Posts"
-    url: /year-archive/
+      url: /year-archive/
 
     
 
