@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a master student from [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm currently a master student from [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/), [The University of Hong Kong](https://www.hku.hk/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-You can find my CV here: [ythan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-[Email](mailto:ythan@connect.hku.hk) / [Wechat](../images/wechat.jpg)
+You can find my pdf format CV here: [ythan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
 A data-driven personal website
