@@ -9,16 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### 🎓 Education
+🎓 Education
+=====
 ---
-- **M.Sc(Eng). in Electrical and Electronic Engineering**  
-  [The University of Hong Kong](https://www.hku.hk/)  
-  <span style="float: right;">2024.09 - 2026.08</span>  
+- **M.Sc(Eng). in Electrical and Electronic Engineering** [The University of Hong Kong](https://www.hku.hk/)<span style="float: right;">2024.09 - 2026.08</span>  
   - GPA: 3.58 / 4.3  
 
-- **B.Eng. in Electronic Information Engineering**  
-  [Shanghai University](https://www.shu.edu.cn/)  
-  <span style="float: right;">2020.09 - 2024.06</span>  
+- **B.Eng. in Electronic Information Engineering**  [Shanghai University](https://www.shu.edu.cn/)<span style="float: right;">2020.09 - 2024.06</span>  
   - GPA: 3.55 / 4.0, 1st class scholarship, 2nd class scholarship  
   - Main Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, Electromagnetic Field Theory, RF Circuit Design, Information Theory and Coding, Data Structure, etc.
 
