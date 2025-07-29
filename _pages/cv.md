@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), 2024 - 2026
-* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/), 2020 - 2024
+* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/), 2024.09 - 2026.08
+* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/), 2020.09 - 2024.06
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* IoT-Based Thermostatic Biological Incubator Mar 2023 - Jun 2023
+  * Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
+  * Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP, enabling data transmission.
+  * Developed an Android application in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -40,24 +40,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
