@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* IoT-Based Thermostatic Biological Incubator Mar 2023 - Jun 2023
+* IoT-Based Thermostatic Biological Incubator, Mar - Jun 2023
   * Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
   * Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP, enabling data transmission.
   * Developed an Android application in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
@@ -25,27 +25,20 @@ Research experience
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
+* English proficiency: 7.0 in IELTS
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
-Talks
+Internship
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Shanghai Telecommunication Engineering Co., Ltd, Jun - Jul 2023
    
-Service and leadership
+Extra-curricular Activities
 ======
 * Currently signed in to 43 different slack teams
