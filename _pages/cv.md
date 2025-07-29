@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/) : <span style="float: right;">2024.09 - 2026.08</span>
-* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/), 2020.09 - 2024.06
+* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/)  <span style="float: right;">2024.09 - 2026.08</span>
+* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/)  <span style="float: right;">2020.09 - 2024.06</span>
 
 Research experience
 ======
-* IoT-Based Thermostatic Biological Incubator, Mar - Jun 2023
+* IoT-Based Thermostatic Biological Incubator  <span style="float: right;">Mar - Jun 2023</span>
   * Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
   * Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP, enabling data transmission.
   * Developed an Android application in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
@@ -37,7 +37,7 @@ Skills
 
 Internship
 ======
-* Shanghai Telecommunication Engineering Co., Ltd, Jun - Jul 2023
+* Shanghai Telecommunication Engineering Co., Ltd <span style="float: right;">Jun - Jul 2023</span>
    
 Extra-curricular Activities
 ======
