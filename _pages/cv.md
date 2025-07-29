@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* IoT-Based Thermostatic Biological Incubator  <span style="float: right;">Mar - Jun 2023</span>
+* **IoT-Based Thermostatic Biological Incubator**  <span style="float: right;">Mar - Jun 2023</span>
   * Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
   * Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP, enabling data transmission.
   * Developed an Android application in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
@@ -28,7 +28,7 @@ Research experience
   
 Skills
 ======
-* English proficiency: 7.0 in IELTS
+* English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
