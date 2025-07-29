@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-| Education |  |
-| --- | ---: |
-| M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/) | 2024.09 - 2026.08 |
-| B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/) | 2020.09 - 2024.06 |
+Education
+======
+* M.Sc(Eng). in Electrical and Electronic Engineering, [The University of Hong Kong](https://www.hku.hk/) : <span style="float: right;">2024.09 - 2026.08</span>
+* B.Eng. in Electronic Information Engineering, [Shanghai University](https://www.shu.edu.cn/), 2020.09 - 2024.06
 
 Research experience
 ======
