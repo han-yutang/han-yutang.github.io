@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Han Yutang's Resume"
+title                    : "ytHan's Resume"
 title_separator          : "-"
 name                     : &name "Han Yutang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : #"cvimage.png"
   name             : "Han Yutang"
-  bio              : "Master student @HKU"
+  bio              : "Master student @HKU<br>Electrical and Electronic Engineering<br>Research interest: IoT & Embedded Systems"
   email            : "ythan@connect.hku.hk" 
   location         : "Shanghai, China"
 
