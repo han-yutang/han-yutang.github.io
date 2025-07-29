@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Han Yutang's Blog"
+title                    : "Han Yutang's Resume"
 title_separator          : "-"
 name                     : &name "Han Yutang"
 description              : &description "personal description"
@@ -73,7 +73,7 @@ author:
   xing             : # HYT
   youtube          : # Username
   zhihu            : # Username
-
+  xiaohongshu      : "ythan03"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
