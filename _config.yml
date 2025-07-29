@@ -22,7 +22,7 @@ repository               : "han-yutang/han-yutang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cvimage.png"
+  avatar           : #"cvimage.png"
   name             : "Han Yutang"
   bio              : "Master student in HKU"
   email            : "ythan@connect.hku.hk" 
