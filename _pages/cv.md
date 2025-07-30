@@ -34,15 +34,10 @@ Research experience
 
 
 * **IoT-Based Thermostatic Biological Incubator**  <span style="float: right;">Mar - Jun 2023</span>
-  * **Hardware**: Developed an IoT-based thermostatic biological incubator using STM32 as the core controller,designed schematics and PCB layout using Altium Designer, and performed chip soldering.
-  * **Firmware & Control**: Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP.
-  * **Software**: Developed an Android APP in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
+  * <span style="text-align: justify; display: inline-block; width: 100%;">**Hardware**: Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.</span>
+  * <span style="text-align: justify; display: inline-block; width: 100%;">**Firmware & Control**: Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP.</span>
+  * <span style="text-align: justify; display: inline-block; width: 100%;">**Software**: Developed an Android APP in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.</span>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 ---
