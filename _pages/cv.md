@@ -22,10 +22,21 @@ redirect_from:
 Research experience
 ======
 ---
+* **Microwave Non-invasive Blood Glucose Monitoring System** <span style="float: right;">Dec 2023 - Jun 2024</span>
+  * **Hardware**: The microwave detection circuit uses the ESP32 as MCU, the voltage-controlled oscillator and the detector are used to generate and receive microwave signals respectively, and Fano resonance microwave sensor is used to measure the S-parameters.
+  * **Software**: The APP is developed on the Android Studio platform, the database is constructed based on SQLite, and the parameter configuration and glucose data transmission are realized through BLE.
+  * **Algorithm**: DBSCAN clustering algorism is adopted to identify and deal with abnormal glucose values deviating from the normal range, so as to effectively deal with the data anomalies brought about by complex factors such as equipment calibration, improper operation and changes in external environment.
+
+* **Deep Learning-based Meibomian Gland Image Analysis System** <span style="float: right;">Feb - Aug 2025</span>
+  * **Pre-processing**: Applied Gaussian denoising and Laplacian sharpening accompanied by alpha blending for enhanced boundary visibility and visualization of gland structures.
+  * **Image segmentation**: Designed a pipeline for eyelid and gland segmentation based on U-Net variants including nnU-Net, U-Net++, Attention U-Net, ResUNet with the highest IoU of 0.9022.
+  * **GUI**: Developed a Qt-based graphical interface supporting image I/O, real-time segmentation visualization, and Meiboscore display.
+
+
 * **IoT-Based Thermostatic Biological Incubator**  <span style="float: right;">Mar - Jun 2023</span>
-  * Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
-  * Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP, enabling data transmission.
-  * Developed an Android application in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
+  * **Hardware**: Developed an IoT-based thermostatic biological incubator using STM32 as the core controller,designed schematics and PCB layout using Altium Designer, and performed chip soldering.
+  * **Firmware & Control**: Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP.
+  * **Software**: Developed an Android APP in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -36,11 +47,12 @@ Skills
 ======
 ---
 * English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
+* Software: PyCharm, Android Studio, MATLAB, Visual Studio, Multisim, Altium Designer
+* Programming Languages: Python, C, C++, Java, SQL
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Internship
 ======
