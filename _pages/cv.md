@@ -56,4 +56,12 @@ Internship
 Extra-curricular Activities
 ======
 ---
-* Currently signed in to 43 different slack teams
+* **Summer Camp | SKL-IOTSC, University of Macau** <span style="float: right;">Jul 2025</span>
+  * Selected to participate in the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City
+  * Participated in academic lectures across five major IoT research domains—Intelligent Sensing & Network Communication, Urban Big Data, Smart Energy, Intelligent Transportation, and Urban Safety
+* **Summer Camp | Function Hub, HKUST (Guangzhou)** <span style="float: right;">Jun 2025</span>
+  * Selected to participate in the Function Hub Summer Camp organized by the Function Hub at the Hong Kong University of Science and Technology (Guangzhou)
+  * Engaged with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.
+* **Professional Training | Institute of Electronic Design Automation, Peking University** <span style="float: right;">Jul 2024</span>
+  * Attended 2024 IC Summer School on Advanced Technology
+  * Learned sparse computing and hardware-software co-design methods and timing optimization strategies
