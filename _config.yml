@@ -22,9 +22,9 @@ repository               : "han-yutang/han-yutang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cvimage.png"
+  avatar           : "profile.png"
   name             : "Han Yutang"
-  bio              : "Master student @HKU<br><br><br>Electrical and Electronic Engineering<br>Research interest: IoT & Embedded Systems"
+  bio              : "Master student @HKU<br>"
   email            : "ythan@connect.hku.hk" 
   location         : "Shanghai, China"
 
