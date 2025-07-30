@@ -32,9 +32,8 @@ Research experience
   * **Image segmentation**: Designed a pipeline for eyelid and gland segmentation based on U-Net variants including nnU-Net, U-Net++, Attention U-Net, ResUNet with the highest IoU of 0.9022.
   * **GUI**: Developed a Qt-based graphical interface supporting image I/O, real-time segmentation visualization, and Meiboscore display.
 
-
 * **IoT-Based Thermostatic Biological Incubator**  <span style="float: right;">Mar - Jun 2023</span>
-  * **Hardware**: Developed an IoT-based thermostatic biological incubator using STM32 as the core controller,designed schematics and PCB layout using Altium Designer, and performed chip soldering.
+  * **Hardware**: Developed an IoT-based thermostatic biological incubator using STM32 as the core controller, designed schematics and PCB layout using Altium Designer, and performed chip soldering.
   * **Firmware & Control**: Implemented temperature acquisition, setting, display, and PID control algorithms in C using Keil and established data communication with the server via NBIoT using TCP.
   * **Software**: Developed an Android APP in Java, utilizing MQTT protocol to communicate with the server, allowing for convenient parameter display, configuration, and remote accessibility.
 
