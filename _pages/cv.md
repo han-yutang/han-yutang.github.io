@@ -13,7 +13,8 @@ redirect_from:
 =====
 ---
 - **M.Sc(Eng). in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" style="color: black; text-decoration: underline;">The University of Hong Kong</a><span style="float: right;">2024.09 - 2026.08</span>  
-  - GPA: 3.58 / 4.3  
+  - GPA: 3.58 / 4.3
+  - Main Courses: Ip Network, Computer Vision, Biomedical Signals and Systems, High Performance Computer Architecture, Pattern Recognition and Machine Learning, Success in Industrial Entrepreneurship, Human-Computer Interaction  
 
 - **B.Eng. in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" style="color: black; text-decoration: underline;">Shanghai University</a><span style="float: right;">2020.09 - 2024.06</span>
   - GPA: 3.55 / 4.0, 1st class scholarship, 2nd class scholarship  
@@ -40,13 +41,11 @@ Research experience
 Skills
 ======
 ---
-* English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
-* Software: PyCharm, Android Studio, MATLAB, Visual Studio, Multisim, Altium Designer
-* Programming Languages: Python, C, C++, Java, SQL
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Language
+  * Mandarin: Native
+  * English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
+* Software: PyCharm, Android Studio, MATLAB, Visual Studio Code, Multisim, Altium Designer
+* Programming Languages: Python, C, C++
 
 Internship
 ======
