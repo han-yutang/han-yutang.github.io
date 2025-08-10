@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "ythan's Resume"
+title                    : "Han Yutang's Resume"
 title_separator          : "-"
 name                     : &name "Han Yutang"
 description              : &description "personal description"
