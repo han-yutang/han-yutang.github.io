@@ -12,12 +12,13 @@ redirect_from:
 🎓 Education
 =====
 ---
-- **M.Sc(Eng). in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" style="color: black; text-decoration: underline;">The University of Hong Kong</a><span style="float: right;">2024.09 - 2026.08</span>  
+- **M.Sc(Eng). in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a><span style="float: right;">2024.09 - 2026.08</span>  
   - GPA: 3.58 / 4.3
-  - Main Courses: Ip Network, Computer Vision, Biomedical Signals and Systems, High Performance Computer Architecture, Pattern Recognition and Machine Learning, Success in Industrial Entrepreneurship, Human-Computer Interaction  
+  - Main Courses: Ip Network, Computer Vision, Biomedical Signals and Systems, High Performance Computer Architecture, Pattern Recognition and Machine Learning, Success in Industrial Entrepreneurship, Advanced Digital Signal Processing, Human-Computer Interaction  
 
 - **B.Eng. in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" style="color: black; text-decoration: underline;">Shanghai University</a><span style="float: right;">2020.09 - 2024.06</span>
-  - GPA: 3.55 / 4.0, 1st class scholarship, 2nd class scholarship  
+  - GPA: 3.55 / 4.0
+  - Scholarships: First-Class University Scholarship (2023) | Second-Class University Scholarship (2022)
   - Main Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, Electromagnetic Field Theory, RF Circuit Design, Information Theory and Coding, Data Structure, etc.
 
 Research experience
