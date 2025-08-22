@@ -12,7 +12,7 @@ redirect_from:
 🎓 Education
 =====
 ---
-- **M.Sc(Eng). in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a><span style="float: right;">2024.09 - 2026.08</span>  
+- **M.Sc(Eng). in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a><span style="float: right;">2024.09 - 2026.08</span>  
   - GPA: 3.58 / 4.3
   - Main Courses: Ip Network, Computer Vision, Biomedical Signals and Systems, High Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.
 
