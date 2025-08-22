@@ -56,7 +56,7 @@ Internship
 Extra-curricular Activities
 ======
 ---
-* **Summer Camp @ SKL-IOTSC, University of Macau** <span style="float: right;">2025.07</span>
+* <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" style="color: inherit; text-decoration: underline;">**Summer Camp @ SKL-IOTSC, University of Macau** <span style="float: right;">2025.07</span>
   * Selected to participate in the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City
   * Participated in academic lectures across five major IoT research domains—Intelligent Sensing & Network Communication, Urban Big Data, Smart Energy, Intelligent Transportation, and Urban Safety
 * **Summer Camp @ Function Hub, HKUST (Guangzhou)** <span style="float: right;">2025.06</span>
