@@ -52,16 +52,17 @@ Internship
 ======
 ---
 * Shanghai Telecommunication Engineering Co., Ltd <span style="float: right;">2023.06 - 2023.07</span>
-   
+* Tab Next Limited <span style="float: right;">2025.06 - 2025.08</span>
+
 Extra-curricular Activities
 ======
 ---
 * <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" style="color: inherit; text-decoration: underline;">**Summer Camp @ SKL-IOTSC, University of Macau** <span style="float: right;">2025.07</span>
   * Selected to participate in the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City
   * Participated in academic lectures across five major IoT research domains—Intelligent Sensing & Network Communication, Urban Big Data, Smart Energy, Intelligent Transportation, and Urban Safety
-* **Summer Camp @ Function Hub, HKUST (Guangzhou)** <span style="float: right;">2025.06</span>
+* <a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" style="color: inherit; text-decoration: underline;">**Summer Camp @ Function Hub, HKUST (Guangzhou)** <span style="float: right;">2025.06</span>
   * Selected to participate in the Function Hub Summer Camp organized by the Function Hub at the Hong Kong University of Science and Technology (Guangzhou)
   * Engaged with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.
-* **Professional Training @ Institute of Electronic Design Automation, Peking University** <span style="float: right;">2024.07</span>
+* **Summer Program @ Institute of Electronic Design Automation, Peking University** <span style="float: right;">2024.07</span>
   * Attended 2024 IC Summer School on Advanced Technology
   * Learned sparse computing and hardware-software co-design methods and timing optimization strategies
