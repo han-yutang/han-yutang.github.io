@@ -18,8 +18,8 @@ redirect_from:
   - GPA: 3.55 / 4.0  
   - Honors: First-Class University Scholarship (2023), Second-Class University Scholarship (2022)  
   - Selected Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
-
 ---
+
 🔬 Research Experience
 =====
 * **Microwave Non-Invasive Blood Glucose Monitoring System** <span style="float: right;">2023.12 – 2024.06</span>  
@@ -36,8 +36,8 @@ redirect_from:
   - **Hardware**: Designed schematics and PCB with Altium Designer, implemented STM32-based controller, completed PCB soldering  
   - **Firmware**: Programmed in C (Keil) with PID temperature control, sensor acquisition, and NB-IoT TCP communication  
   - **Software**: Developed Android APP (Java) with MQTT protocol for remote monitoring and parameter control  
-
 ---
+
 💡 Skills
 =====
 * **Language**
@@ -45,14 +45,14 @@ redirect_from:
   * English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
 * **Programming**: Python, C, C++  
 * **Software Tools**: PyCharm, Android Studio, MATLAB, VS Code, Multisim, Altium Designer  
-
 ---
+
 💼 Internship
 =====
 - **Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>  
 - **Tab Next Limited** <span style="float: right;">2025.06 – 2025.08</span>  
-
 ---
+
 🌍 Extra-Curricular Activities
 =====
 * <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ SKL-IOTSC, University of Macau**</a> <span style="float: right;">2025.07</span>  
