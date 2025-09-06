@@ -41,7 +41,9 @@ redirect_from:
 💡 Skills
 =====
 ---
-* **Languages**: Mandarin (Native), English (IELTS 7.0 | Writing 7.5 | CET-6, CET-4)  
+* **Language**
+  * Mandarin: Native
+  * English proficiency: IELTS 7.0 with 7.5 in writing, CET-6, CET-4
 * **Programming**: Python, C, C++  
 * **Software Tools**: PyCharm, Android Studio, MATLAB, VS Code, Multisim, Altium Designer  
 
