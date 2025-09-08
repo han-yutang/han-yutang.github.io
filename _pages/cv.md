@@ -58,6 +58,9 @@ redirect_from:
 
 - **Electrical intern @ Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>
   - Participated in the precise mapping of the weak power facilities of Yangpu District Urban Operation and Management Center. Handled and verified complex low-voltage construction drawings using AutoCAD, ensuring accuracy of the diagrams.
+ 
+- **Part-time TA @ Shanghai Hou Zai Education Consulting Co., Ltd.** <span style="float: right;">2022.01 – 2023.12</span>
+  - Provided weekend tutoring for high school mathematics, helping students understand and master key concepts to improve academic performance.
 
 ---
 
