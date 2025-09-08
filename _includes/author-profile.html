@@ -165,6 +165,10 @@
       {% if author.xiaohongshu %}
       <li><a href="https://www.xiaohongshu.com/user/profile/{{ author.xiaohongshu }}"><i class="fab fa-fw fa-flickr icon-pad-right" aria-hidden="true"></i>Xiaohongshu</a></li>
       {% endif %}
+      {% if author.phone %}
+      <div class="author__phone">{{ author.phone }}</div>
+      {% endif %}
+
     </ul>
   </div>
 </div>
