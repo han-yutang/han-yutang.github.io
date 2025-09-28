@@ -45,13 +45,17 @@ redirect_from:
 * **Language**
   * Chinese proficiency: Mandarin & Shanghainese (Native), Cantonese (Beginner🙂)
   * English proficiency: **IELTS 7.0 with 7.5 in writing**, CET-6, CET-4
-* **Programming Language**: Python, C/C++, Java(for Android), HTML/CSS/JS(with AI assistance 🤖) 
+* **Programming Language**: Python, C/C++, Java+SQL(for Android), HTML/CSS/JS(basics) 
 * **Software Tools**: PyCharm, Android Studio, MATLAB, VS Code, Multisim, Altium Designer  
 
 ---
 
 💼 Internship
 =====
+- **Algorithm Strategic intern @ Bosch (China) Investment Ltd.** <span style="float: right;">2025.09 – 2025.11</span> 
+  - Participated in designing fitting algorithms for virtual tire pressure sensors, inferring tire pressure from vehicle wheel speed and other signals using regression and deep learning methods to build models
+  - Utilized Git for version control and team collaboration, ensuring efficient and standardized model development, testing, and iteration processes
+
 - **AI Engineer intern @ Tab Next Limited** <span style="float: right;">2025.06 – 2025.08</span>
   - **RAG-based Drug Use Assistant**: Built a Retrieval-Augmented Generation (RAG) pipeline for medication usage Q&A, combining faiss-based dense retrieval and BioGPT fine-tuned on drug-related corpora to answer patient queries about dosages, contraindications, and interactions.
   - **Pet Behavior Recognition**: Developed a real-time behavior classification system for household pets using a custom-labeled video dataset and YOLOv11. Fine-tuned YOLOv11 for multi-label classification with temporal smoothing for stability.
