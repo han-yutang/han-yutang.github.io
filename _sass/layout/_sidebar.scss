@@ -270,9 +270,7 @@
   text-align: center;
 }
 
-/* 只让 email、location、resume 左对齐 */ 
-.sidebar .author__email,
-.sidebar .author__location,
-.sidebar .author__resume_cn {
+/* 只让 email、location、resume 左对齐（前 3 个 li） */
+.sidebar .author__urls li:nth-child(-n+3) {
   text-align: left;
 }
