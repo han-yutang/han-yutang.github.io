@@ -11,11 +11,11 @@ redirect_from:
 🎓 Education
 =====
 - **M.Sc(Eng) in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a> <span style="float: right;">2024.09 – 2026.08</span>  
-  - GPA: 3.58 / 4.3  
+  - GPA: 3.38  
   - Selected Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
 - **B.Eng in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a> <span style="float: right;">2020.09 – 2024.06</span>  
-  - GPA: 3.55 / 4.0  
+  - GPA: 3.55 / 4.0, Average: 88.03 / 100  
   - Honors: First-Class University Scholarship (2023), Second-Class University Scholarship (2022)  
   - Selected Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
 
@@ -42,7 +42,7 @@ redirect_from:
 
 💡 Skills
 =====
-* **Language**
+* **Language**:
   * Chinese proficiency: Mandarin & Shanghainese (Native), Cantonese (Beginner🙂)
   * English proficiency: **IELTS 7.0 with 7.5 in writing**, CET-6, CET-4
 * **Programming Language**: Python, C/C++, Java+SQL(for Android), HTML/CSS/JS(basics) 

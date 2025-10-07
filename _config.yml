@@ -27,6 +27,7 @@ author:
   bio              : "Master student @HKU<br>Intern @BOSCH<br>"
   email            : "ythan@connect.hku.hk"
   location         : "Shanghai, China"
+  resume_cn        : "/files/resume_cn.pdf"
 
   # Academic websites
   academia         : # URL
