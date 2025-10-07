@@ -262,15 +262,3 @@
     }
   }
 }
-
-/* 默认居中头像、名字、bio */
-.sidebar .author__avatar,
-.sidebar .author__name,
-.sidebar .author__bio {
-  text-align: center;
-}
-
-/* 只让 email、location、resume 左对齐（前 3 个 li） */
-.sidebar .author__urls li:nth-child(-n+3) a {
-  text-align: left;
-}
