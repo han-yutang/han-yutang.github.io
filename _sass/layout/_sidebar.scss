@@ -263,36 +263,17 @@
   }
 }
 
-/* ===============================================================
-   Custom: Center author profile content
-   =============================================================== */
-
+/* 默认居中头像、名字、bio */
 .sidebar .author__avatar,
-.sidebar .author__content,
-.sidebar .author__urls {
+.sidebar .author__name,
+.sidebar .author__bio {
   text-align: center;
 }
 
-/* 头像水平居中 */
-.sidebar .author__avatar img {
-  display: block;
-  margin: 0 auto;
-}
-
-/* 列表（如 Resume 链接）去除左对齐缩进 */
-.sidebar .author__urls li {
-  list-style: none;
-  margin: 4px 0;
-}
-
-/* Resume 链接样式更醒目 */
-.sidebar .author__urls a {
-  color: var(--link-color);
-  font-weight: 500;
-  text-decoration: none;
-}
-
-.sidebar .author__urls a:hover {
-  text-decoration: underline;
+/* 只让 email、location、resume 左对齐 */ 
+.sidebar .author__email,
+.sidebar .author__location,
+.sidebar .author__resume_cn {
+  text-align: left;
 }
 
