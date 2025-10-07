@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Han Yutang's Resume"
+title                    : "Resume"
 title_separator          : "-"
 name                     : &name "Han Yutang"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   bio              : "Master student @HKU<br>Intern @BOSCH<br>"
   email            : "ythan@connect.hku.hk"
   location         : "Shanghai, China"
-  resume_cn        : "/files/resume_cn.pdf"
+  resume_cn        : "https://connecthkuhk-my.sharepoint.com/:b:/r/personal/ythan_connect_hku_hk/Documents/Attachments/%E7%AE%80%E5%8E%86_%E9%9F%A9%E5%AE%87%E5%94%90.pdf?csf=1&web=1&e=ALGMCM"
 
   # Academic websites
   academia         : # URL
