@@ -11,11 +11,11 @@ redirect_from:
 🎓 Education
 =====
 - **M.Sc(Eng) in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a> <span style="float: right;">2024.09 – 2026.08</span>  
-  - GPA: 3.38  
+  - GPA: 3.58 / 4.3  
   - Selected Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
 - **B.Eng in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a> <span style="float: right;">2020.09 – 2024.06</span>  
-  - GPA: 3.55 / 4.0, Average: 88.03 / 100  
+  - GPA: 3.55 / 4.0, Average: 88.03 / 100, Rank: top 20%  
   - Honors: First-Class University Scholarship (2023), Second-Class University Scholarship (2022)  
   - Selected Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
 
@@ -57,8 +57,8 @@ redirect_from:
   - Utilized Git for version control and team collaboration, ensuring efficient and standardized model development, testing, and iteration processes
 
 - **AI Engineer intern @ Tab Next Limited** <span style="float: right;">2025.06 – 2025.08</span>
-  - **RAG-based Drug Use Assistant**: Built a Retrieval-Augmented Generation (RAG) pipeline for medication usage Q&A, combining faiss-based dense retrieval and BioGPT fine-tuned on drug-related corpora to answer patient queries about dosages, contraindications, and interactions.
-  - **Pet Behavior Recognition**: Developed a real-time behavior classification system for household pets using a custom-labeled video dataset and YOLOv11. Fine-tuned YOLOv11 for multi-label classification with temporal smoothing for stability.
+  - Co-developed a WhatsApp-based intelligent customer service system to automate medical appointments, including a complete closed-loop process for patients to upload referral forms, information parsing, and medical imaging scheduling.
+  - Optimized prompt design to enable the system to respond fluently in Traditional Chinese and Cantonese, enhancing user experience and localization adaptability.
 
 - **Electrical intern @ Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>
   - Participated in the precise mapping of the weak power facilities of Yangpu District Urban Operation and Management Center. Handled and verified complex low-voltage construction drawings using AutoCAD, ensuring accuracy of the diagrams.
