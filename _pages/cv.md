@@ -10,14 +10,21 @@ redirect_from:
 
 🎓 Education
 =====
-- **M.Sc(Eng) in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a> <span style="float: right;">2024.09 – 2026.08</span>  
+- **M.Sc(Eng) in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a> <span style="float: right;">2024.09 – 2026.06</span>  
   - GPA: 3.58 / 4.3  
-  - Selected Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
+  - Main Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
 - **B.Eng in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a> <span style="float: right;">2020.09 – 2024.06</span>  
   - GPA: 3.55 / 4.0, Average: 88.03 / 100, Rank: top 20%  
-  - Honors: First-Class University Scholarship (2023), Second-Class University Scholarship (2022)  
-  - Selected Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
+  - Main Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
+
+---
+
+🏆 Academic Achievements                                                
+=====                             
+* First-Class Scholarship, “Self-Strengthening” Scholarship – Shanghai University (2023)
+* Second-Class Scholarship – Shanghai University (2022)
+* National Software Copyright: ChatBot Intelligent Chat Application V1.0, Registration No. 2023SR1295184
 
 ---
 
@@ -53,12 +60,15 @@ redirect_from:
 💼 Internship
 =====
 - **Algorithm Strategic intern @ Bosch (China) Investment Ltd.** <span style="float: right;">2025.09 – 2025.11</span> 
-  - Participated in designing fitting algorithms for virtual tire pressure sensors, inferring tire pressure from vehicle wheel speed and other signals using regression and deep learning methods to build models
-  - Utilized Git for version control and team collaboration, ensuring efficient and standardized model development, testing, and iteration processes
+  - Participated in algorithm development for the indirect tire pressure monitoring system (iTPMS) within the chassis control system, achieving software-based tire pressure estimation by analyzing wheel speed sensor and IMU signals from the vehicle CAN bus.
+  - Performed time-series data denoising and feature analysis using Python and Pandas, then built and trained deep learning models within the TensorFlow/Keras framework.
+  - Employed MATLAB/Simulink to reconstruct validated models and generate embedded code in preparation for vehicle integration.
+  - Utilized Git for version control and team collaboration, ensuring efficient and standardized model development, testing, and iteration processes.
 
 - **AI Engineer intern @ Tab Next Limited** <span style="float: right;">2025.06 – 2025.08</span>
-  - Co-developed a WhatsApp-based intelligent customer service system to automate medical appointments, including a complete closed-loop process for patients to upload referral forms, information parsing, and medical imaging scheduling.
-  - Optimized prompt design to enable the system to respond fluently in Traditional Chinese and Cantonese, enhancing user experience and localization adaptability.
+  - Assisted in developing an intelligent customer service system leveraging the WhatsApp Business API and LLM to establish an end-to-end automated workflow for medical imaging appointments.
+  - Specialized in Cantonese-specific prompt engineering by designing a context management mechanism, which significantly enhanced the accuracy and fluency of multi-turn dialogues in Traditional Chinese, thereby improving user experience and localization.
+  - Supported environment packaging with Docker for rapid deployment and modular debugging.
 
 - **Electrical intern @ Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>
   - Participated in the precise mapping of the weak power facilities of Yangpu District Urban Operation and Management Center. Handled and verified complex low-voltage construction drawings using AutoCAD, ensuring accuracy of the diagrams.
