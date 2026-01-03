@@ -10,13 +10,13 @@ redirect_from:
 
 🎓 Education
 =====
-- **M.Sc(Eng) in Electrical and Electronic Engineering**, <a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a> <span style="float: right;">2024.09 – 2026.06</span>  
+- **M.Sc(Eng) in Electrical and Electronic Engineering**, <strong><a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a></strong> <span style="float: right;">2024.09 – 2026.06</span>  
   - GPA: 3.58  
-  - Main Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
+  - Key Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
-- **B.Eng in Electronic Information Engineering**, <a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a> <span style="float: right;">2020.09 – 2024.06</span>  
-  - GPA: 3.55 / 4.0, Average: 88.03 / 100, Rank: top 20%  
-  - Main Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
+- **B.Eng in Electronic Information Engineering**, <strong><a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a></strong> <span style="float: right;">2020.09 – 2024.06</span>  
+  - GPA: 3.55 / 4.0 | Average: 88.03 / 100 | Rank: top 20%  
+  - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
 
 ---
 
@@ -67,7 +67,7 @@ redirect_from:
 
 🔬 Research Experience
 =====
-* **Microwave Non-Invasive Blood Glucose Monitoring System Based on Fano Resonance and BLE** <span style="float: right;">2023.12 – 2024.06</span>  
+* **Microwave Non-Invasive Blood Glucose Monitoring System** <span style="float: right;">2023.12 – 2024.06</span>  
   - **Hardware**: Designed a microwave detection circuit based on ESP32 MCU, integrating a voltage-controlled oscillator and detector to generate/receive microwave signals, combined with an active Fano-resonance microwave sensor for highly sensitive glucose measurements.
   - **Software**: Developed a mobile Android app in Android Studio for UI, parameter configuration, and data visualization; implemented a local SQLite database and used Bluetooth Low Energy (BLE) for device connection and real-time data transmission. 
   - **Algorithm**: Quantified the relationship between S-parameters and glucose concentration, using cubic polynomial fitting for glucose prediction (RMSE ~1.0 mmol/L). Applied adaptive DBSCAN clustering to identify and remove outliers, effectively handling device drift, user errors, and environmental noise; achieved anomaly detection F1 score >95%.
