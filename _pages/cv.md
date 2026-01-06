@@ -15,7 +15,7 @@ redirect_from:
   - Key Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
 - **B.Eng in Electronic Information Engineering**, <strong><a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a></strong> <span style="float: right;">2020.09 – 2024.06</span>  
-  - GPA: 3.55 / 4.0 | Average: 88.03 / 100 | Rank: top 20%  
+  - GPA: 3.55 / 4.0 &#124; Average: 88.03 / 100 &#124; Rank: top 20%
   - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
 
 ---
