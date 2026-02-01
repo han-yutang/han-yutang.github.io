@@ -10,12 +10,12 @@ redirect_from:
 
 🎓 Education
 =====
-- **M.Sc(Eng) in Electrical and Electronic Engineering**, <strong><a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a></strong> <span style="float: right;">2024.09 – 2026.06</span>  
+- **M.Eng in Electrical and Electronic Engineering**, <strong><a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a></strong> <span style="float: right;">2024.09 – 2026.06</span>  
   - GPA: 3.58  
   - Key Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computer Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, etc.  
 
 - **B.Eng in Electronic Information Engineering**, <strong><a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a></strong> <span style="float: right;">2020.09 – 2024.06</span>  
-  - GPA: 3.55 / 4.0 &#124; Average: 88.03 / 100 &#124; Rank: top 20%
+  - GPA: 3.55 / 4.0 &#124; Average: 88.03 / 100 &#124; Rank: top 15%
   - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, etc.  
 
 ---
@@ -43,20 +43,20 @@ redirect_from:
 
 💼 Internship
 =====
-- **Algorithm Strategic intern @ Bosch (China) Investment Ltd.** <span style="float: right;">2025.09 – Now</span> 
+- **Algorithm Strategic Intern @ Bosch (China) Investment Ltd.** <span style="float: right;">2025.09 – 2025.12</span> 
   - Participated in the algorithm development of an embedded AI-based indirect tire pressure monitoring system for commercial vehicles, leveraging existing vehicle sensors to implement a hybrid mathematical-AI algorithm on low-cost embedded ECUs for real-time and accurate tire pressure monitoring.
   - Addressed harsh commercial vehicle operating conditions and sensor limitations by applying multiple advanced denoising techniques, removing over 90% of environmental noise and abnormal signals, and extracting more than 10 relevant features.
   - Built and trained deep neural network models in TensorFlow to deeply fuse multi-scale features from various sensors, significantly improving tire pressure estimation stability and robustness.
   - Reconstructed and generated embedded code using MATLAB/Simulink based on validated models, providing technical support for subsequent vehicle-level deployment and real-time operation.
   - Utilized Git for version control and team collaboration, establishing a complete algorithm development–deployment–testing workflow, ensuring traceability and iterative improvement of model versions.
 
-- **AI Engineer intern @ Tab Next Limited, Hong Kong** <span style="float: right;">2025.06 – 2025.08</span>
+- **AI Engineer Intern @ Tab Next Limited, Hong Kong** <span style="float: right;">2025.06 – 2025.08</span>
   - Assisted in developing an an intelligent customer service system based on the WhatsApp Business API, leveraging the Qwen 3.0 large language model to create an end-to-end automated workflow for medical imaging appointment booking, enabling real-time request processing and automated scheduling.
   - Designed prompt engineering and context management mechanisms for Cantonese and Traditional Chinese scenarios, ensuring user requests were accurately routed to the corresponding processing modules, achieving ~95% intent recognition accuracy and ~90% task completion rate in multi-turn conversations.
   - Conducted black-box testing and defect tracking for dialogue flow and intent recognition modules, simulating end-user appointment interactions, validating system responses, and using SQL commands in MySQL to clean specific test session records, ensuring data isolation and reproducibility in the test environment.
   - Used Docker to containerize the development environment, enabling rapid independent deployment and debugging of system components, improving team development efficiency.
 
-- **Electrical intern @ Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>
+- **Electrical Intern @ Shanghai Telecommunication Engineering Co., Ltd.** <span style="float: right;">2023.06 – 2023.07</span>
   - Participated in the precise mapping of the weak power facilities of Yangpu District Urban Operation and Management Center. Handled and verified complex low-voltage construction drawings using AutoCAD, ensuring accuracy of the diagrams.
   - Participated in an intelligent security monitoring project, applying YOLOv5 + DeepSORT to perform crowd density analysis in key areas and generate real-time alerts for abnormal behavior.
  
