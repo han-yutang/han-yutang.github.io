@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Resume"
+title                    : "Ythan's Homepage"
 title_separator          : "-"
 name                     : &name "Han Yutang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "ChatGPT Image 2025年9月6日 19_14_58.png"
   name             : "Han Yutang"
-  bio              : "Master student at HKU<br>Algorithm intern at BOSCH<br>"
+  bio              : "Master graduate at HKU<br>Actively seeking full-time opportunities<br>"
   email            : "ythan@connect.hku.hk"
   location         : "Shanghai, China"
 
