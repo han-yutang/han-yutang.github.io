@@ -3,9 +3,7 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * We keep all original imports and add custom overrides at the end
  */
 
 @import
@@ -40,3 +38,95 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* =================================================================
+   🎯 CUSTOM COMPACT ACADEMIC LAYOUT (Added by you)
+   Purpose: Reduce oversized blog-style spacing & fonts
+   Works for both desktop and mobile
+   ================================================================= */
+
+
+/* 🌍 GLOBAL FONT SCALE */
+html {
+  font-size: 15px;   // default theme feels ~17–18px
+}
+
+
+/* 📄 CONTENT WIDTH — less stretched, more CV-like */
+.page__content {
+  max-width: 900px;
+}
+
+
+/* 🏷 TITLES — stop looking like blog hero headers */
+.page__title {
+  font-size: 1.8rem !important;
+  margin-bottom: 0.6em !important;
+}
+
+h1 { font-size: 1.8rem !important; }
+h2 { font-size: 1.4rem !important; margin-top: 1.2em; }
+h3 { font-size: 1.2rem !important; }
+
+
+/* 📑 PARAGRAPH SPACING — less vertical air */
+p {
+  margin-bottom: 0.6em;
+  line-height: 1.6;
+}
+
+
+/* 📋 LISTS (Education, Publications etc.) */
+li {
+  margin-bottom: 0.3em;
+}
+
+
+/* 👤 SIDEBAR PROFILE AREA */
+.author__name {
+  font-size: 1.1rem;
+}
+
+.author__content {
+  font-size: 0.9rem;
+}
+
+
+/* 🔝 HEADER SPACE REDUCTION */
+.masthead {
+  padding: 0.8em 0 !important;
+}
+
+
+/* 🧱 SECTION BLOCK SPACING */
+.archive__item,
+.page__inner-wrap {
+  margin-bottom: 1.2em;
+}
+
+
+/* 📱 MOBILE OPTIMIZATION */
+@media (max-width: 768px) {
+
+  html {
+    font-size: 14px;
+  }
+
+  .page__content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .page__title {
+    font-size: 1.5rem !important;
+  }
+
+  h1 { font-size: 1.5rem !important; }
+  h2 { font-size: 1.3rem !important; }
+  h3 { font-size: 1.1rem !important; }
+
+  p {
+    line-height: 1.55;
+  }
+}
