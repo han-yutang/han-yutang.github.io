@@ -17,11 +17,14 @@ redirect_from:
 - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, Communication Principles, Natural Language Processing, etc.
 - 1st Class Scholarship (2023), Self-Improvement Scholarship (2023), 2nd Class Scholarship (2022)  
 
+**Doctoral Studies (Future Plan)**, <span style="float: right;">Long-term Academic Goal</span>  
+- Research Interests: Embedded AI and Edge Intelligence, Deep Learning for Sensing and Perception, AI for healthcare, Large Language Models.
+
 ---
 
 💡 Skills
 =====
-* **Language**: Chinese (Mandarin & Shanghainese, Cantonese Beginner); English (**IELTS 7.0, Writing 7.5**, CET-6)
+* **Language**: Chinese (Mandarin & Shanghainese, Cantonese Beginner), English (**IELTS 7.0 with W 7.5**, CET-6)
 * **Programming**: Python, C/C++, MATLAB/Simulink, Java & SQL, HTML/CSS/JavaScript
 * **Software Tools**: Deep Learning (TensorFlow, PyTorch), Embedded Systems, Android Development, Multisim Circuit Simulation
 * **Certifications**: National Computer Rank Examination Level 4 Network Engineer; Information Security Professional Certificate Level 1; Shanghai Higher Education IT Proficiency Exam Level 2 C Programming; Alipay Junior Web Front-End Developer Certification
