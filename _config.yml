@@ -74,6 +74,10 @@ author:
   youtube          : # Username
   zhihu            : # Username
 # Publication Category - The following the list of publication categories and their headings
+
+header_pages:
+  - projects.md
+
 publication_category:
   books:
     title: 'Books'
