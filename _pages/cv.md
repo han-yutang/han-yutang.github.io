@@ -17,7 +17,7 @@ redirect_from:
 - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, Communication Principles, Natural Language Processing, etc.
 - 1st Class Scholarship (2023), Self-Improvement Scholarship (2023), 2nd Class Scholarship (2022)  
 
-**Doctoral Studies (Future Plan)**, <span style="float: right;">Long-term Academic Goal</span>  
+**Doctoral Studies (Future Plan)** <span style="float: right;">Long-term Academic Goal</span>  
 - Research Interests: Embedded AI and Edge Intelligence, Deep Learning for Sensing and Perception, AI for healthcare, Large Language Models.
 
 ---
