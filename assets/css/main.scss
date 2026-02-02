@@ -84,25 +84,11 @@ li {
 
 
 /* 👤 SIDEBAR PROFILE AREA */
-.sidebar {
-  font-size: 1rem;   // 先让侧边栏整体回到正常字号
-}
-
 .author__name {
-  font-size: 1.35rem;   // 名字明显一点（现在太小）
-  font-weight: 600;
-  margin-top: 0.5rem;
+    font-size: 1.1rem; 
 }
-
-.author__content {
-  font-size: 1rem;      // bio、email、location 主字体
-  line-height: 1.6;
-}
-
-/* 邮箱和位置不要太小 */
-.author__content a,
-.author__content span {
-  font-size: 0.95rem;
+.author__content { 
+    font-size: 1.0rem; 
 }
 
 
