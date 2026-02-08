@@ -10,15 +10,15 @@ redirect_from:
 
 🎓 Education
 =====
+**Doctoral Studies** <span style="float: right;">Long-term Academic Goal</span>  
+- Research Interests: Embedded AI and Edge Computing, Intelligent Sensing and Perception, AI for Healthcare, Large Language Models...
+
 **M.Eng in Electrical and Electronic Engineering**, <strong><a href="https://www.hku.hk/" target="_blank" style="color: inherit; text-decoration: underline;">The University of Hong Kong</a></strong> <span style="float: right;">2024.09 – 2026.01</span>  
 - Key Courses: IP Networks, Computer Vision, Biomedical Signals & Systems, High-Performance Computing Architecture, Pattern Recognition, Advanced DSP, Human-Computer Interaction, Entrepreneurship and Innovation Methodology, etc.  
 
 **B.Eng in Electronic Information Engineering**, <strong><a href="https://www.shu.edu.cn/" target="_blank" style="color: inherit; text-decoration: underline;">Shanghai University</a></strong> <span style="float: right;">2020.09 – 2024.06</span>  
 - Key Courses: Digital Signal Processing, Digital Image Processing, Computer Networks, RF Circuit Design, Information Theory & Coding, Data Structure, Communication Principles, Natural Language Processing, etc.
 - 1st Class Scholarship (2023), Self-Improvement Scholarship (2023), 2nd Class Scholarship (2022)  
-
-**Doctoral Studies (Future Plan)** <span style="float: right;">Long-term Academic Goal</span>  
-- Research Interests: Embedded AI and Edge Intelligence, Deep Learning for Sensing and Perception, AI for healthcare, Large Language Models.
 
 ---
 
@@ -34,7 +34,7 @@ redirect_from:
 💼 Internship
 =====
 **Algorithm Strategic Intern @ Bosch (China) Investment Ltd. - Bosch Research** <span style="float: right;">2025.09 – 2025.12</span> 
-- Participated in the algorithm development of an embedded AI-based indirect tire pressure monitoring system (iTPMS) for commercial vehicles, leveraging existing vehicle sensors to implement a hybrid mathematical-AI algorithm on low-cost embedded ECUs for real-time and accurate tire pressure monitoring.
+- Participated in the algorithm development of an embedded AI-based indirect tire pressure monitoring system (iTPMS) for commercial vehicles, leveraging existing vehicle sensors to implement a hybrid mathematical-AI algorithm on resource-constrained automotive ECUs, enabling real-time deployment of AI under strict latency, cost, and reliability constraints.
 - Addressed harsh operating conditions of commercial vehicles and sensor limitations by applying multiple advanced denoising techniques, removing over 90% of environmental noise and abnormal signals, and extracting more than 10 relevant features.
 - Built and trained deep neural network models in TensorFlow to deeply fuse multi-scale features from various sensors, significantly improving tire pressure estimation stability and robustness.
 - Reconstructed and generated embedded code using MATLAB/Simulink based on validated models, providing technical support for subsequent vehicle-level deployment and real-time operation.
@@ -75,15 +75,30 @@ redirect_from:
 
 ---
 
-🌍 Extra-Curricular Activities
+📚 Research Outputs
+=====
+- Software Copyright: *Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0*, National Copyright Administration of China, Reg. No. 2026SR0233395, 2026.
+- Software Copyright: *ChatBot Intelligent Conversational Mini-Program V1.0*, National Copyright Administration of China, Reg. No. 2023SR1295184, 2023.
+
+---
+
+🌍 Research Training & Academic Programs
 =====
 <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ SKL-IOTSC, University of Macau**</a> <span style="float: right;">2025.07</span>  
-- Selected to participate in the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City.
-- Participated in academic lectures across five major IoT research domains—Intelligent Sensing & Network Communication, Urban Big Data, Smart Energy, Intelligent Transportation, and Urban Safety. 
+- Selected to attend the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City at the University of Macau.
+- Engaged in research exposure activities including visits to advanced laboratory facilities, interactive discussions with researchers, and academic lectures covering core smart-city research domains: Intelligent Sensing & Network Communication, Urban Big Data & Intelligent Technology, Smart Energy, Intelligent Transportation, and Urban Safety & Disaster Prevention.
 
 <a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ Function Hub, HKUST (Guangzhou)**</a> <span style="float: right;">2025.06</span>  
 - Selected to participate in the Summer Camp organized by the Function Hub at the Hong Kong University of Science and Technology (Guangzhou).
 - Engaged with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.  
+
+**Summer School @ SKL-AIS, Chinese Academy of Sciences** <span style="float: right;">2025.08</span>
+- Completed the summer program “Security Evaluation and Enhancement of Large Models” hosted by the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences.
+- Received systematic training in large model security, including risk assessment, adversarial robustness, safety alignment, and evaluation methodologies for trustworthy AI systems.
+
+**Summer School @ School of Geospatial Engineering and Science, Sun Yat-sen University** <span style="float: right;">2025.08</span>
+- Completed the 2025 Summer School on Intelligent Sensing Technologies for Air, Space, Terrestrial and Marine.
+- Studied integrated sensing and perception technologies across multi-domain environments, covering remote sensing, spatial information processing, and smart Earth observation systems.
 
 **Summer Program @ Institute of Electronic Design Automation, Peking University** <span style="float: right;">2024.07</span>  
 - Attended 2024 IC Summer School on Advanced Technology.  
