@@ -77,30 +77,25 @@ redirect_from:
 
 📚 Research Outputs
 =====
-- Software Copyright: *Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0*, National Copyright Administration of China, Reg. No. 2026SR0233395, 2026.
-- Software Copyright: *ChatBot Intelligent Conversational Mini-Program V1.0*, National Copyright Administration of China, Reg. No. 2023SR1295184, 2023.
+- *Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0*, National Copyright Administration of China, Reg. No. 2026SR0233395, 2026.
+- *ChatBot Intelligent Conversational Mini-Program V1.0*, National Copyright Administration of China, Reg. No. 2023SR1295184, 2023.
 
 ---
 
-🌍 Research Training & Academic Programs
+🌍 Academic Programs
 =====
-<a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ SKL-IOTSC, University of Macau**</a> <span style="float: right;">2025.07</span>  
-- Selected to attend the 3rd SKL-IOTSC Summer Camp hosted by the State Key Laboratory of Internet of Things for Smart City at the University of Macau.
-- Engaged in research exposure activities including visits to advanced laboratory facilities, interactive discussions with researchers, and academic lectures covering core smart-city research domains: Intelligent Sensing & Network Communication, Urban Big Data & Intelligent Technology, Smart Energy, Intelligent Transportation, and Urban Safety & Disaster Prevention.
+<a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ State Key Laboratory of Internet of Things for Smart City, The University of Macau**</a> <span style="float: right;">2025.07</span>  
+- Selected for the 3rd SKL-IOTSC Summer Camp at UM, visiting advanced laboratory facilities, interactive discussions with researchers, and academic lectures covering Intelligent Sensing & Network Communication, Urban Big Data & Intelligent Technology, Smart Energy, Intelligent Transportation, and Urban Safety & Disaster Prevention.
 
-<a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ Function Hub, HKUST (Guangzhou)**</a> <span style="float: right;">2025.06</span>  
-- Selected to participate in the Summer Camp organized by the Function Hub at the Hong Kong University of Science and Technology (Guangzhou).
-- Engaged with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.  
+<a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank" style="color: inherit; text-decoration: underline;">**Summer Camp @ Hong Kong University of Science and Technology (Guangzhou)**</a> <span style="float: right;">2025.06</span>  
+- Selected to participate in the Summer Camp organized by the Function Hub, HKUST(GZ), engaging with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.  
 
-**Summer School @ SKL-AIS, Chinese Academy of Sciences** <span style="float: right;">2025.08</span>
-- Completed the summer program “Security Evaluation and Enhancement of Large Models” hosted by the State Key Laboratory of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences.
-- Received systematic training in large model security, including risk assessment, adversarial robustness, safety alignment, and evaluation methodologies for trustworthy AI systems.
+**Summer School @ State Key Laboratory of AI Safety, Chinese Academy of Sciences** <span style="float: right;">2025.08</span>
+- Completed the summer program “Security Evaluation and Enhancement of Large Models,” receiving systematic training in large-model security, including risk assessment, adversarial robustness, safety alignment, and evaluation methodologies for trustworthy AI systems.
 
 **Summer School @ School of Geospatial Engineering and Science, Sun Yat-sen University** <span style="float: right;">2025.08</span>
-- Completed the 2025 Summer School on Intelligent Sensing Technologies for Air, Space, Terrestrial and Marine.
-- Studied integrated sensing and perception technologies across multi-domain environments, covering remote sensing, spatial information processing, and smart Earth observation systems.
+- Completed the 2025 Summer School on Intelligent Sensing Technologies for Air, Space, Terrestrial and Marine, gaining training in integrated multi-domain sensing and perception, including remote sensing, spatial information processing, and smart Earth observation systems.
 
 **Summer Program @ Institute of Electronic Design Automation, Peking University** <span style="float: right;">2024.07</span>  
-- Attended 2024 IC Summer School on Advanced Technology.  
-- Gained hands-on training in sparse computing, hardware-software co-design, and timing optimization.  
+- Attended 2024 IC Summer School on Advanced Technology, gaining hands-on training in sparse computing, hardware-software co-design, and timing optimization.  
 
