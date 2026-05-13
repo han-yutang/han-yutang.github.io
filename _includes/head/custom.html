@@ -2,6 +2,11 @@
 
 <!-- start custom head snippets -->
 
+<!-- Homepage modern layout styles -->
+{% if page.url == "/" %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/homepage.css"/>
+{% endif %}
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 

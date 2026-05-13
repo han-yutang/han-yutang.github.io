@@ -1,0 +1,488 @@
+---
+---
+
+/* =================================================================
+   HOMEPAGE MODERN LAYOUT
+   ================================================================= */
+
+/* Accent color variables */
+:root {
+  --cv-accent: #2f7f93;
+  --cv-accent-light: #e8f4f7;
+  --cv-accent-dark: #1a5c6b;
+  --cv-card-bg: #fafbfc;
+  --cv-card-border: #e8eaed;
+  --cv-card-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --cv-card-hover-shadow: 0 3px 12px rgba(0,0,0,0.10);
+  --cv-tag-bg: #eef2f4;
+  --cv-tag-text: #4a5568;
+}
+
+html[data-theme="dark"] {
+  --cv-accent: #0ea1c5;
+  --cv-accent-light: #1a2d35;
+  --cv-accent-dark: #0d8ba8;
+  --cv-card-bg: #3a3f44;
+  --cv-card-border: #4a5058;
+  --cv-card-shadow: 0 1px 3px rgba(0,0,0,0.20);
+  --cv-card-hover-shadow: 0 3px 12px rgba(0,0,0,0.35);
+  --cv-tag-bg: #3a4048;
+  --cv-tag-text: #c0c8d0;
+}
+
+/* =================================================================
+   HERO OVERLAY CUSTOMIZATION
+   ================================================================= */
+.page__hero--overlay {
+  padding: 2.8em 0;
+  text-align: center;
+}
+
+.page__hero--overlay .page__title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.3em;
+}
+
+.page__hero--overlay .page__lead {
+  font-size: 1.1rem;
+  font-weight: 400;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.page__hero--overlay .btn--light-outline {
+  margin-top: 1em;
+  border-color: rgba(255,255,255,0.7);
+  color: #fff;
+  font-size: 0.9rem;
+  padding: 0.5em 1.5em;
+  transition: all 0.2s ease;
+}
+
+.page__hero--overlay .btn--light-outline:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: #fff;
+}
+
+/* =================================================================
+   FULL-WIDTH CONTENT (override grid when sidebar is hidden)
+   ================================================================= */
+#main > .archive {
+  width: 100% !important;
+  max-width: 960px;
+  margin: 0 auto;
+  float: none !important;
+}
+
+/* =================================================================
+   PROFILE CONTACT BAR (below hero, inside content)
+   ================================================================= */
+.profile-contact-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6em 1.2em;
+  margin: -1.5em auto 2em;
+  padding: 0.8em 1.5em;
+  max-width: 700px;
+  background: var(--global-bg-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: relative;
+  z-index: 5;
+}
+
+.profile-contact-bar a,
+.profile-contact-bar .contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+}
+
+.profile-contact-bar a:hover {
+  color: var(--cv-accent);
+  text-decoration: none;
+}
+
+.profile-contact-bar i {
+  color: var(--cv-accent);
+  font-size: 0.95rem;
+}
+
+/* =================================================================
+   SECTION HEADERS
+   ================================================================= */
+.cv-section {
+  margin: 2.8em 0 1.5em;
+}
+
+.cv-section:first-of-type {
+  margin-top: 0;
+}
+
+.cv-section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.6em;
+  border-bottom: 2px solid var(--cv-accent);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--global-text-color);
+}
+
+.cv-section-header .section-icon {
+  font-size: 1.4rem;
+}
+
+/* =================================================================
+   EXPERIENCE / INTERNSHIP CARDS
+   ================================================================= */
+.exp-card {
+  position: relative;
+  margin-bottom: 1.2em;
+  padding: 1.2em 1.4em;
+  background: var(--cv-card-bg);
+  border: 1px solid var(--cv-card-border);
+  border-left: 4px solid var(--cv-accent);
+  border-radius: 6px;
+  box-shadow: var(--cv-card-shadow);
+  transition: box-shadow 0.2s ease;
+}
+
+.exp-card:hover {
+  box-shadow: var(--cv-card-hover-shadow);
+}
+
+.exp-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.4em 1em;
+  margin-bottom: 0.6em;
+}
+
+.exp-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--global-text-color);
+  line-height: 1.4;
+}
+
+.exp-card-title a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--cv-accent);
+}
+
+.exp-card-title a:hover {
+  color: var(--cv-accent);
+}
+
+.exp-card-date {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #fff;
+  background: var(--cv-accent);
+  padding: 0.2em 0.7em;
+  border-radius: 20px;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+.exp-card-subtitle {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.5em;
+}
+
+.exp-card-body {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--global-text-color);
+}
+
+.exp-card-body ul,
+.exp-card-body ol {
+  margin: 0.3em 0 0 0;
+  padding-left: 1.3em;
+}
+
+.exp-card-body li {
+  margin-bottom: 0.25em;
+}
+
+/* =================================================================
+   EDUCATION ITEMS
+   ================================================================= */
+.edu-item {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 1em;
+  padding: 0.8em 1em;
+  background: var(--cv-card-bg);
+  border-radius: 6px;
+  border: 1px solid var(--cv-card-border);
+  align-items: flex-start;
+}
+
+.edu-icon {
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cv-accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1rem;
+}
+
+.edu-info {
+  flex: 1;
+}
+
+.edu-degree {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--global-text-color);
+}
+
+.edu-school {
+  font-size: 0.9rem;
+  color: var(--cv-accent);
+  margin: 0.15em 0;
+}
+
+.edu-school a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.edu-date {
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+  display: inline-block;
+  background: var(--cv-tag-bg);
+  padding: 0.15em 0.6em;
+  border-radius: 12px;
+}
+
+.edu-details {
+  font-size: 0.88rem;
+  color: var(--global-text-color);
+  margin-top: 0.3em;
+  line-height: 1.6;
+}
+
+/* =================================================================
+   SKILL TAGS
+   ================================================================= */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1em;
+}
+
+.skill-category {
+  background: var(--cv-card-bg);
+  border: 1px solid var(--cv-card-border);
+  border-radius: 6px;
+  padding: 1em;
+}
+
+.skill-category-title {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--cv-accent);
+  margin-bottom: 0.6em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--cv-card-border);
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+
+.skill-tag {
+  display: inline-block;
+  font-size: 0.82rem;
+  padding: 0.2em 0.7em;
+  background: var(--cv-tag-bg);
+  color: var(--cv-tag-text);
+  border-radius: 14px;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+/* =================================================================
+   RESEARCH OUTPUTS
+   ================================================================= */
+.output-item {
+  display: flex;
+  gap: 0.8em;
+  align-items: baseline;
+  margin-bottom: 0.6em;
+  padding: 0.6em 1em;
+  background: var(--cv-card-bg);
+  border-radius: 6px;
+  border: 1px solid var(--cv-card-border);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.output-icon {
+  flex-shrink: 0;
+  color: var(--cv-accent);
+  font-size: 0.9rem;
+}
+
+/* =================================================================
+   ACADEMIC PROGRAMS
+   ================================================================= */
+.program-item {
+  margin-bottom: 0.7em;
+  padding: 0.7em 1em;
+  background: var(--cv-card-bg);
+  border-radius: 6px;
+  border: 1px solid var(--cv-card-border);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.program-item a {
+  font-weight: 600;
+  color: var(--global-text-color);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--cv-accent);
+}
+
+.program-item a:hover {
+  color: var(--cv-accent);
+}
+
+.program-date {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #fff;
+  background: var(--cv-accent);
+  padding: 0.15em 0.6em;
+  border-radius: 12px;
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
+
+.program-desc {
+  color: var(--global-text-color);
+  margin-top: 0.2em;
+  font-size: 0.85rem;
+}
+
+/* =================================================================
+   SEPARATOR
+   ================================================================= */
+.cv-separator {
+  border: none;
+  height: 1px;
+  background: var(--cv-card-border);
+  margin: 2em 0;
+}
+
+/* =================================================================
+   RESPONSIVE
+   ================================================================= */
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    padding: 1.8em 0;
+  }
+
+  .page__hero--overlay .page__title {
+    font-size: 1.6rem;
+  }
+
+  .page__hero--overlay .page__lead {
+    font-size: 0.95rem;
+  }
+
+  .profile-contact-bar {
+    margin: -1em 0.8em 1.5em;
+    padding: 0.6em 1em;
+    gap: 0.4em 0.8em;
+    border-radius: 6px;
+  }
+
+  .profile-contact-bar a,
+  .profile-contact-bar .contact-item {
+    font-size: 0.82rem;
+  }
+
+  .exp-card {
+    padding: 0.9em 1em;
+  }
+
+  .exp-card-header {
+    flex-direction: column;
+    gap: 0.3em;
+  }
+
+  .exp-card-title {
+    font-size: 0.95rem;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cv-section-header {
+    font-size: 1.15rem;
+  }
+
+  .edu-item {
+    flex-direction: row;
+    gap: 0.7em;
+    padding: 0.7em 0.8em;
+  }
+}
+
+@media (max-width: 480px) {
+  .page__hero--overlay {
+    padding: 1.5em 0;
+  }
+
+  .page__hero--overlay .page__title {
+    font-size: 1.4rem;
+  }
+
+  .profile-contact-bar {
+    margin: -0.8em 0.5em 1.2em;
+    padding: 0.5em 0.8em;
+    gap: 0.3em 0.6em;
+  }
+
+  .exp-card-date {
+    font-size: 0.75rem;
+    padding: 0.15em 0.5em;
+  }
+
+  .exp-card-body {
+    font-size: 0.85rem;
+  }
+}
