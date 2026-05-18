@@ -6,20 +6,20 @@ redirect_from:
   - /resume
 header:
   overlay_color: "#2f7f93"
-  cta_label: "Download CV (PDF)"
-  cta_url: "/files/resume_cn.pdf"
-excerpt: "Master graduate at HKU · Actively seeking full-time opportunities"
+excerpt: "Embedded AI & Intelligent Sensing · Edge Computing · AI for Healthcare"
 title: "Han Yutang"
 ---
 
 {% include base_path %}
 
-<div class="profile-contact-bar">
-  <span class="contact-item"><i class="fas fa-fw fa-map-marker-alt"></i> Shanghai, China</span>
-  <a href="mailto:ythan@connect.hku.hk"><i class="fas fa-fw fa-envelope"></i> ythan@connect.hku.hk</a>
-  <a href="https://github.com/ChirsDickman" target="_blank"><i class="fab fa-fw fa-github"></i> GitHub</a>
-  <a href="https://www.linkedin.com/in/yutang-han-988331362" target="_blank"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a>
-  <a href="/files/resume_cn.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i> Resume (PDF)</a>
+<div class="profile-card">
+  <img src="{{ base_path }}/images/ChatGPT Image 2025年9月6日 19_14_58.png" alt="Han Yutang" class="profile-avatar" fetchpriority="high" />
+  <div class="profile-contact-row">
+    <span class="contact-item"><i class="fas fa-fw fa-map-marker-alt"></i> Shanghai, China</span>
+    <a href="mailto:ythan@connect.hku.hk"><i class="fas fa-fw fa-envelope"></i> ythan@connect.hku.hk</a>
+    <a href="https://github.com/ChirsDickman" target="_blank"><i class="fab fa-fw fa-github"></i> GitHub</a>
+    <a href="https://www.linkedin.com/in/yutang-han-988331362" target="_blank"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a>
+  </div>
 </div>
 
 <div class="cv-section">
@@ -230,28 +230,47 @@ title: "Han Yutang"
 <div class="cv-section">
   <div class="cv-section-header"><span class="section-icon">🌍</span> Academic Programs</div>
 
-  <div class="program-item">
-    <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank"><strong>Summer Camp @ State Key Laboratory of Internet of Things for Smart City, The University of Macau</strong></a><span class="program-date">2025.07</span>
-    <div class="program-desc">Selected for the 3rd SKL-IOTSC Summer Camp at UM, visiting advanced laboratory facilities, interactive discussions with researchers, and academic lectures covering Intelligent Sensing & Network Communication, Urban Big Data & Intelligent Technology, Smart Energy, Intelligent Transportation, and Urban Safety & Disaster Prevention.</div>
-  </div>
+  <div class="program-grid">
 
-  <div class="program-item">
-    <a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank"><strong>Summer Camp @ Hong Kong University of Science and Technology (Guangzhou)</strong></a><span class="program-date">2025.06</span>
-    <div class="program-desc">Selected to participate in the Summer Camp organized by the Function Hub, HKUST(GZ), engaging with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and explored cross-disciplinary innovation in smart city technologies.</div>
-  </div>
+    <div class="program-card">
+      <div class="program-card-top">
+        <div class="program-card-title"><a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank">Summer Camp @ SKL-IOTSC, University of Macau</a></div>
+        <div class="program-card-date">2025.07</div>
+      </div>
+      <div class="program-card-desc">Visited advanced labs, attended lectures on Intelligent Sensing, Urban Big Data, Smart Energy, and Disaster Prevention.</div>
+    </div>
 
-  <div class="program-item">
-    <strong>Summer School @ State Key Laboratory of AI Safety, Chinese Academy of Sciences</strong><span class="program-date">2025.08</span>
-    <div class="program-desc">Completed the summer program "Security Evaluation and Enhancement of Large Models," receiving systematic training in large-model security, including risk assessment, adversarial robustness, safety alignment, and evaluation methodologies for trustworthy AI systems.</div>
-  </div>
+    <div class="program-card">
+      <div class="program-card-top">
+        <div class="program-card-title"><a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank">Summer Camp @ HKUST (Guangzhou)</a></div>
+        <div class="program-card-date">2025.06</div>
+      </div>
+      <div class="program-card-desc">Explored cross-disciplinary innovation in advanced materials, microelectronics, and sustainable energy at Function Hub.</div>
+    </div>
 
-  <div class="program-item">
-    <strong>Summer School @ School of Geospatial Engineering and Science, Sun Yat-sen University</strong><span class="program-date">2025.08</span>
-    <div class="program-desc">Completed the 2025 Summer School on Intelligent Sensing Technologies for Air, Space, Terrestrial and Marine, gaining training in integrated multi-domain sensing and perception, including remote sensing, spatial information processing, and smart Earth observation systems.</div>
-  </div>
+    <div class="program-card">
+      <div class="program-card-top">
+        <div class="program-card-title">Summer School @ SKL of AI Safety, CAS</div>
+        <div class="program-card-date">2025.08</div>
+      </div>
+      <div class="program-card-desc">Trained in LLM security: risk assessment, adversarial robustness, safety alignment, and trustworthy AI evaluation.</div>
+    </div>
 
-  <div class="program-item">
-    <strong>Summer Program @ Institute of Electronic Design Automation, Peking University</strong><span class="program-date">2024.07</span>
-    <div class="program-desc">Attended 2024 IC Summer School on Advanced Technology, gaining hands-on training in sparse computing, hardware-software co-design, and timing optimization.</div>
+    <div class="program-card">
+      <div class="program-card-top">
+        <div class="program-card-title">Summer School @ School of Geospatial Engineering, SYSU</div>
+        <div class="program-card-date">2025.08</div>
+      </div>
+      <div class="program-card-desc">Studied intelligent sensing for air, space, terrestrial and marine: remote sensing and spatial information processing.</div>
+    </div>
+
+    <div class="program-card">
+      <div class="program-card-top">
+        <div class="program-card-title">Summer Program @ Institute of EDA, Peking University</div>
+        <div class="program-card-date">2024.07</div>
+      </div>
+      <div class="program-card-desc">Hands-on training in sparse computing, hardware-software co-design, and timing optimization for IC design.</div>
+    </div>
+
   </div>
 </div>
