@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ythan's Homepage"
-title_separator          : "-"
+title                    : "Han Yutang | Personal Homepage"
+title_separator          : "|"
 name                     : &name "Han Yutang"
-description              : &description "personal description"
+description              : &description "Han Yutang - M.Eng Graduate from HKU. Research in Embedded AI, Edge Computing, Intelligent Sensing, AI for Healthcare, and LLMs. Seeking PhD & full-time opportunities."
 url                      : https://han-yutang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "han-yutang/han-yutang.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "ChatGPT Image 2025年9月6日 19_14_58.png"
   name             : "Han Yutang"
-  bio              : "Master graduate at HKU<br>Actively seeking full-time opportunities<br>"
+  bio              : "M.Eng Graduate at HKU<br>Embedded AI · Edge Computing · Intelligent Sensing<br>Actively seeking PhD & full-time opportunities<br>"
   email            : "ythan@connect.hku.hk"
   location         : "Shanghai, China"
 
@@ -76,7 +76,10 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 
 header_pages:
+  - cv.md
   - projects.md
+  - publications.html
+  - zh.md
 
 publication_category:
   books:
@@ -129,30 +132,14 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+og_image                 : images/profile.png
+og_description           : "Han Yutang - M.Eng Graduate from HKU. Research in Embedded AI, Edge Computing, Intelligent Sensing, AI for Healthcare."
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          : ""  # Set your GA4 measurement ID here
 
 
 # Reading Files

@@ -65,9 +65,9 @@ html {
   margin-bottom: 0.6em !important;
 }
 
-h1 { font-size: 1.8rem !important; }
-h2 { font-size: 1.4rem !important; margin-top: 1.2em; }
-h3 { font-size: 1.2rem !important; }
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; margin-top: 1.2em; }
+h3 { font-size: 1.2rem; }
 
 
 /* 📑 PARAGRAPH SPACING — less vertical air */
@@ -109,21 +109,21 @@ li {
 @media (max-width: 768px) {
 
   html {
-    font-size: 8px;
+    font-size: 13px;
   }
 
   .page__content {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 
   .page__title {
     font-size: 1.5rem !important;
   }
 
-  h1 { font-size: 1.5rem !important; }
-  h2 { font-size: 1.3rem !important; }
-  h3 { font-size: 1.1rem !important; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
 
   p {
     line-height: 1.55;

@@ -5,13 +5,72 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/modern-style.css">
+
+<div class="modern-page" markdown="0">
+
+<section>
+<h2><span class="section-icon">📄</span> Publications & Copyrights</h2>
+
+<div class="pub-list">
+
+  <div class="pub-card">
+    <div class="pub-content">
+      <div class="pub-title"><i class="fas fa-copyright icon-blue"></i> Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0</div>
+      <div class="pub-meta">
+        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-hashtag"></i> Reg. No. 2026SR0233395</span>
+        <span><i class="far fa-calendar-alt"></i> 2026</span>
+      </div>
+      <div style="font-size: 0.85rem; color: #636e72; margin-top: 0.3rem;">
+        Computer software copyright for a deep learning-based meibomian gland image analysis system with multi-stage segmentation and clinical GUI.
+      </div>
+    </div>
+    <div class="pub-actions">
+      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
+        <i class="fas fa-quote-right"></i> BibTeX
+      </span>
+      <div class="bibtex-content">@misc{deepmgias2026,
+  title     = {Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0},
+  author    = {Han, Yutang},
+  year      = {2026},
+  number    = {2026SR0233395},
+  publisher = {National Copyright Administration of China}
+}</div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-content">
+      <div class="pub-title"><i class="fas fa-copyright icon-green"></i> ChatBot Intelligent Conversational Mini-Program V1.0</div>
+      <div class="pub-meta">
+        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-hashtag"></i> Reg. No. 2023SR1295184</span>
+        <span><i class="far fa-calendar-alt"></i> 2023</span>
+      </div>
+      <div style="font-size: 0.85rem; color: #636e72; margin-top: 0.3rem;">
+        Computer software copyright for an intelligent conversational mini-program with natural language understanding capabilities.
+      </div>
+    </div>
+    <div class="pub-actions">
+      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
+        <i class="fas fa-quote-right"></i> BibTeX
+      </span>
+      <div class="bibtex-content">@misc{chatbot2023,
+  title     = {ChatBot Intelligent Conversational Mini-Program V1.0},
+  author    = {Han, Yutang},
+  year      = {2023},
+  number    = {2023SR1295184},
+  publisher = {National Copyright Administration of China}
+}</div>
+    </div>
+  </div>
+
+</div>
+</section>
+
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -32,5 +91,4 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-
-
+</div>
