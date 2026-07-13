@@ -24,7 +24,8 @@ redirect_from:
   <!-- HKU Card -->
   <div class="edu-card">
     <div class="edu-card-header">
-      <div class="edu-logo">HKU</div>
+      <img class="edu-logo-img" src="{{ base_path }}/images/logo-hku.png" alt="HKU" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+      <div class="edu-logo" style="display:none;">HKU</div>
       <div>
         <div class="edu-degree">M.Eng in Electrical and Electronic Engineering</div>
         <div class="edu-school"><a href="https://www.hku.hk/" target="_blank">The University of Hong Kong</a></div>
@@ -33,6 +34,7 @@ redirect_from:
     <div class="edu-meta">
       <span><i class="fas fa-calendar-alt"></i> 2024.09 – 2026.01</span>
       <span><i class="fas fa-map-marker-alt"></i> Hong Kong SAR</span>
+      <span><i class="fas fa-graduation-cap"></i> Full-time</span>
     </div>
     <div class="course-tags">
       <span class="course-tag">IP Networks</span>
@@ -49,7 +51,8 @@ redirect_from:
   <!-- Shanghai University Card -->
   <div class="edu-card">
     <div class="edu-card-header">
-      <div class="edu-logo">SHU</div>
+      <img class="edu-logo-img" src="{{ base_path }}/images/logo-shu.png" alt="SHU" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+      <div class="edu-logo" style="display:none;">SHU</div>
       <div>
         <div class="edu-degree">B.Eng in Electronic Information Engineering</div>
         <div class="edu-school"><a href="https://www.shu.edu.cn/" target="_blank">Shanghai University</a></div>
@@ -58,11 +61,12 @@ redirect_from:
     <div class="edu-meta">
       <span><i class="fas fa-calendar-alt"></i> 2020.09 – 2024.06</span>
       <span><i class="fas fa-map-marker-alt"></i> Shanghai, China</span>
+      <span><i class="fas fa-graduation-cap"></i> Full-time</span>
     </div>
-    <div class="scholarship-badges">
-      <span class="scholarship-badge"><i class="fas fa-star"></i> 1st Class Scholarship (2023)</span>
-      <span class="scholarship-badge"><i class="fas fa-medal"></i> Self-Improvement Scholarship (2023)</span>
-      <span class="scholarship-badge"><i class="fas fa-award"></i> 2nd Class Scholarship (2022)</span>
+    <div class="edu-scholarships">
+      <span class="edu-scholarship"><i class="fas fa-star"></i> 1st Class Scholarship <em>2023</em></span>
+      <span class="edu-scholarship"><i class="fas fa-medal"></i> Self-Improvement <em>2023</em></span>
+      <span class="edu-scholarship"><i class="fas fa-award"></i> 2nd Class Scholarship <em>2022</em></span>
     </div>
     <div class="course-tags">
       <span class="course-tag">Digital Signal Processing</span>
@@ -73,27 +77,6 @@ redirect_from:
       <span class="course-tag">Data Structure</span>
       <span class="course-tag">Communication Principles</span>
       <span class="course-tag">Natural Language Processing</span>
-    </div>
-  </div>
-
-  <!-- Doctoral Goal Card -->
-  <div class="edu-card" style="border-style: dashed; opacity: 0.85;">
-    <div class="edu-card-header">
-      <div class="edu-logo" style="background: #fef0e8; color: #e8580c;">🎯</div>
-      <div>
-        <div class="edu-degree">Doctoral Studies</div>
-        <div class="edu-school" style="color: #e8580c;">Long-term Academic Goal</div>
-      </div>
-    </div>
-    <div class="edu-meta">
-      <span><i class="fas fa-flask"></i> Seeking PhD Opportunities</span>
-    </div>
-    <div class="course-tags">
-      <span class="course-tag" style="background: #fef0e8; border-color: #e8580c; color: #e8580c;">Embedded AI</span>
-      <span class="course-tag" style="background: #fef0e8; border-color: #e8580c; color: #e8580c;">Edge Computing</span>
-      <span class="course-tag" style="background: #fef0e8; border-color: #e8580c; color: #e8580c;">Intelligent Sensing</span>
-      <span class="course-tag" style="background: #fef0e8; border-color: #e8580c; color: #e8580c;">AI for Healthcare</span>
-      <span class="course-tag" style="background: #fef0e8; border-color: #e8580c; color: #e8580c;">LLMs</span>
     </div>
   </div>
 

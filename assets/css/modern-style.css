@@ -90,6 +90,14 @@
   margin-bottom: 0.8rem;
 }
 
+.edu-logo-img {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-sm);
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
 .edu-logo {
   width: 48px;
   height: 48px;
@@ -98,7 +106,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   color: var(--primary);
   flex-shrink: 0;
   font-weight: 700;
@@ -147,30 +155,33 @@
   color: var(--primary);
 }
 
-/* Scholarships Badge */
-.scholarship-badges {
+/* Scholarships — compact inline */
+.edu-scholarships {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-bottom: 0.8rem;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.82rem;
 }
 
-.scholarship-badge {
-  background: var(--gold-light);
-  color: var(--gold);
-  border: 1px solid var(--gold);
-  padding: 0.2em 0.6em;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  display: flex;
+.edu-scholarship {
+  display: inline-flex;
   align-items: center;
-  gap: 0.25em;
-  white-space: nowrap;
+  gap: 0.3em;
+  color: var(--gold);
+  font-weight: 500;
 }
 
-.scholarship-badge i {
-  font-size: 0.75em;
+.edu-scholarship i {
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
+.edu-scholarship em {
+  font-style: normal;
+  font-size: 0.85em;
+  color: var(--text-light);
+  margin-left: 0.15em;
 }
 
 /* Course Tags */
@@ -1034,6 +1045,12 @@
   border-color: #444;
   color: #ccc;
 }
+[data-theme="dark"] .modern-page .edu-scholarship {
+  color: #e0b040;
+}
+[data-theme="dark"] .modern-page .edu-scholarship em {
+  color: #999;
+}
 [data-theme="dark"] .modern-page .exp-tag {
   background: #1a3050;
   color: #7ab7ef;
@@ -1041,10 +1058,6 @@
 [data-theme="dark"] .modern-page .project-tech-tag {
   background: #1a3050;
   color: #7ab7ef;
-}
-[data-theme="dark"] .modern-page .scholarship-badge {
-  background: #3d2e00;
-  color: #f0c040;
 }
 [data-theme="dark"] .modern-page .research-tag.size-sm {
   background: #2a2a2a;
