@@ -91,16 +91,20 @@
 }
 
 .edu-logo-img {
-  width: 48px;
-  height: 48px;
-  border-radius: var(--radius-sm);
+  width: 56px !important;
+  min-width: 56px !important;
+  height: 56px !important;
   object-fit: contain;
+  object-position: center;
+  border-radius: 4px;
   flex-shrink: 0;
+  vertical-align: middle;
 }
 
 .edu-logo {
-  width: 48px;
-  height: 48px;
+  width: 56px;
+  min-width: 56px;
+  height: 56px;
   border-radius: var(--radius-sm);
   background: var(--primary-light);
   display: flex;
