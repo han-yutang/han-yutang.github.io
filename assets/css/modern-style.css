@@ -553,6 +553,7 @@
 
 .company-logo {
   width: 40px;
+  min-width: 40px;
   height: 40px;
   border-radius: var(--radius-sm);
   background: var(--primary-light);
@@ -562,6 +563,17 @@
   font-size: 1.2rem;
   color: var(--primary);
   flex-shrink: 0;
+}
+
+.company-logo-img {
+  width: 40px !important;
+  min-width: 40px !important;
+  height: 40px !important;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 4px;
+  flex-shrink: 0;
+  vertical-align: middle;
 }
 
 .exp-info {

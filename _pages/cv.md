@@ -221,7 +221,8 @@ redirect_from:
     <input type="checkbox" class="accordion-toggle" id="exp-bosch" checked>
     <label class="accordion-header" for="exp-bosch">
       <div class="accordion-header-left">
-        <div class="company-logo"><i class="fas fa-car"></i></div>
+        <img class="company-logo-img" src="{{ base_path }}/images/logo-bosch.png" alt="Bosch" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="company-logo" style="display:none;"><i class="fas fa-car"></i></div>
         <div class="exp-info">
           <div class="exp-title">Algorithm Strategic Intern</div>
           <div class="exp-company">Bosch (China) Investment Ltd. — Bosch Research</div>
@@ -259,7 +260,8 @@ redirect_from:
     <input type="checkbox" class="accordion-toggle" id="exp-tabnext">
     <label class="accordion-header" for="exp-tabnext">
       <div class="accordion-header-left">
-        <div class="company-logo"><i class="fas fa-robot"></i></div>
+        <img class="company-logo-img" src="{{ base_path }}/images/logo-tabnext.png" alt="Tab Next" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="company-logo" style="display:none;"><i class="fas fa-robot"></i></div>
         <div class="exp-info">
           <div class="exp-title">AI Engineer Intern</div>
           <div class="exp-company">Tab Next Limited, Hong Kong</div>
@@ -296,7 +298,8 @@ redirect_from:
     <input type="checkbox" class="accordion-toggle" id="exp-telecom">
     <label class="accordion-header" for="exp-telecom">
       <div class="accordion-header-left">
-        <div class="company-logo"><i class="fas fa-broadcast-tower"></i></div>
+        <img class="company-logo-img" src="{{ base_path }}/images/logo-shanghai-telecom.png" alt="Shanghai Telecom" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="company-logo" style="display:none;"><i class="fas fa-broadcast-tower"></i></div>
         <div class="exp-info">
           <div class="exp-title">Electrical Intern</div>
           <div class="exp-company">Shanghai Telecommunication Engineering Co., Ltd.</div>
@@ -508,22 +511,10 @@ redirect_from:
     <div class="pub-content">
       <div class="pub-title"><i class="fas fa-copyright icon-blue"></i> Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0</div>
       <div class="pub-meta">
-        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-building"></i> National Software Copyright Administration of China</span>
         <span><i class="fas fa-hashtag"></i> Reg. No. 2026SR0233395</span>
         <span><i class="far fa-calendar-alt"></i> 2026</span>
       </div>
-    </div>
-    <div class="pub-actions">
-      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
-        <i class="fas fa-quote-right"></i> BibTeX
-      </span>
-      <div class="bibtex-content">@misc{deepmgias2026,
-  title     = {Deep-MGIAS: Deep Learning–Based Meibomian Gland Image Analysis System V1.0},
-  author    = {Han, Yutang},
-  year      = {2026},
-  number    = {2026SR0233395},
-  publisher = {National Copyright Administration of China}
-}</div>
     </div>
   </div>
 
@@ -531,22 +522,10 @@ redirect_from:
     <div class="pub-content">
       <div class="pub-title"><i class="fas fa-copyright icon-blue"></i> Microwave Non-invasive Blood Glucose Monitoring System V1.0</div>
       <div class="pub-meta">
-        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-building"></i> National SoftwareCopyright Administration of China</span>
         <span><i class="fas fa-hashtag"></i> Reg. No. 2026SR0560292</span>
         <span><i class="far fa-calendar-alt"></i> 2024</span>
       </div>
-    </div>
-    <div class="pub-actions">
-      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
-        <i class="fas fa-quote-right"></i> BibTeX
-      </span>
-      <div class="bibtex-content">@misc{microwaveglucose2024,
-  title     = {Microwave Non-invasive Blood Glucose Monitoring System V1.0},
-  author    = {Han, Yutang},
-  year      = {2024},
-  number    = {2026SR0560292},
-  publisher = {National Copyright Administration of China}
-}</div>
     </div>
   </div>
 
@@ -554,113 +533,13 @@ redirect_from:
     <div class="pub-content">
       <div class="pub-title"><i class="fas fa-copyright icon-green"></i> ChatBot Intelligent Conversational Mini-Program V1.0</div>
       <div class="pub-meta">
-        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-building"></i> National Software Copyright Administration of China</span>
         <span><i class="fas fa-hashtag"></i> Reg. No. 2023SR1295184</span>
         <span><i class="far fa-calendar-alt"></i> 2023</span>
       </div>
     </div>
-    <div class="pub-actions">
-      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
-        <i class="fas fa-quote-right"></i> BibTeX
-      </span>
-      <div class="bibtex-content">@misc{chatbot2023,
-  title     = {ChatBot Intelligent Conversational Mini-Program V1.0},
-  author    = {Han, Yutang},
-  year      = {2023},
-  number    = {2023SR1295184},
-  publisher = {National Copyright Administration of China}
-}</div>
-    </div>
   </div>
 
-</div>
-</section>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     🚀 FEATURED PROJECTS — Preview Cards
-     ═══════════════════════════════════════════════════════════════════════ -->
-<section id="featured-projects">
-<h2><span class="section-icon">🚀</span> Featured Projects</h2>
-
-<div class="projects-grid">
-
-  <!-- Blood Glucose -->
-  <div class="project-card">
-    <div class="project-img" style="background: linear-gradient(135deg, #e74c3c, #c0392b);">
-      <i class="fas fa-heartbeat"></i>
-    </div>
-    <div class="project-body">
-      <div class="project-name">Non-Invasive Blood Glucose Monitoring</div>
-      <div class="project-desc">
-        Microwave-based glucose detection system with ESP32 MCU, Android app, and adaptive DBSCAN anomaly detection (F1 >95%).
-      </div>
-      <div class="project-tech-stack">
-        <span class="project-tech-tag">ESP32</span>
-        <span class="project-tech-tag">Android</span>
-        <span class="project-tech-tag">BLE</span>
-        <span class="project-tech-tag">DBSCAN</span>
-        <span class="project-tech-tag">Microwave</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/ChirsDickman" target="_blank" class="project-link github"><i class="fab fa-github"></i> GitHub</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Deep-MGIAS -->
-  <div class="project-card">
-    <div class="project-img" style="background: linear-gradient(135deg, #2980b9, #6dd5fa);">
-      <i class="fas fa-eye"></i>
-    </div>
-    <div class="project-body">
-      <div class="project-name">Deep-MGIAS: Meibomian Gland Analysis</div>
-      <div class="project-desc">
-        Deep learning pipeline for eyelid & gland segmentation (IoU 0.9022), Random Forest classification, and PyQt clinical GUI.
-      </div>
-      <div class="project-tech-stack">
-        <span class="project-tech-tag">U-Net</span>
-        <span class="project-tech-tag">PyTorch</span>
-        <span class="project-tech-tag">PyQt</span>
-        <span class="project-tech-tag">Random Forest</span>
-        <span class="project-tech-tag">Medical AI</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/ChirsDickman" target="_blank" class="project-link github"><i class="fab fa-github"></i> GitHub</a>
-        <span class="project-link demo" style="cursor:default;opacity:0.7;"><i class="fas fa-file-alt"></i> 2026SR0233395</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- IoT Incubator -->
-  <div class="project-card">
-    <div class="project-img" style="background: linear-gradient(135deg, #27ae60, #2ecc71);">
-      <i class="fas fa-thermometer-half"></i>
-    </div>
-    <div class="project-body">
-      <div class="project-name">IoT Thermostatic Biological Incubator</div>
-      <div class="project-desc">
-        STM32-based incubator with PID control (±0.5°C), NBIoT connectivity, and MQTT-enabled Android remote monitoring app.
-      </div>
-      <div class="project-tech-stack">
-        <span class="project-tech-tag">STM32</span>
-        <span class="project-tech-tag">PID</span>
-        <span class="project-tech-tag">MQTT</span>
-        <span class="project-tech-tag">NBIoT</span>
-        <span class="project-tech-tag">Android</span>
-        <span class="project-tech-tag">PCB Design</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/ChirsDickman" target="_blank" class="project-link github"><i class="fab fa-github"></i> GitHub</a>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div style="text-align: center; margin-top: 1.5rem;">
-  <a href="{{ base_path }}/projects/" class="exp-link-btn" style="padding: 0.6em 1.5em; font-size: 0.95rem;">
-    <i class="fas fa-folder-open"></i> View All Projects
-  </a>
 </div>
 </section>
 
@@ -668,7 +547,7 @@ redirect_from:
      🌍 ACADEMIC PROGRAMS — Card Grid
      ═══════════════════════════════════════════════════════════════════════ -->
 <section id="activities">
-<h2><span class="section-icon">🌍</span> Selected Academic Programs</h2>
+<h2><span class="section-icon">🌍</span> Academic Programs</h2>
 
 <div class="activities-grid">
 
