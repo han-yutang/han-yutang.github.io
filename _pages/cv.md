@@ -36,6 +36,9 @@ redirect_from:
       <span><i class="fas fa-map-marker-alt"></i> Hong Kong SAR</span>
       <span><i class="fas fa-graduation-cap"></i> Full-time</span>
     </div>
+    <div class="edu-scholarships">
+      <span class="edu-scholarship"><i class="fas fa-star"></i> Department-Level Scholarship <em>2025</em></span>
+    </div>
     <div class="course-tags">
       <span class="course-tag">IP Networks</span>
       <span class="course-tag">Computer Vision</span>
@@ -65,7 +68,6 @@ redirect_from:
     </div>
     <div class="edu-scholarships">
       <span class="edu-scholarship"><i class="fas fa-star"></i> 1st Class Scholarship <em>2023</em></span>
-      <span class="edu-scholarship"><i class="fas fa-medal"></i> Self-Improvement <em>2023</em></span>
       <span class="edu-scholarship"><i class="fas fa-award"></i> 2nd Class Scholarship <em>2022</em></span>
     </div>
     <div class="course-tags">
@@ -77,6 +79,7 @@ redirect_from:
       <span class="course-tag">Data Structure</span>
       <span class="course-tag">Communication Principles</span>
       <span class="course-tag">Natural Language Processing</span>
+      <span class="course-tag">...</span>
     </div>
   </div>
 
@@ -94,12 +97,8 @@ redirect_from:
   <span class="research-tag size-md">Edge Computing</span>
   <span class="research-tag size-lg">Intelligent Sensing & Perception</span>
   <span class="research-tag size-md">AI for Healthcare</span>
-  <span class="research-tag size-md">Large Language Models</span>
-  <span class="research-tag size-sm">Computer Vision</span>
-  <span class="research-tag size-sm">Biomedical Signal Processing</span>
-  <span class="research-tag size-sm">Human-Computer Interaction</span>
-  <span class="research-tag size-sm">IoT Systems</span>
-  <span class="research-tag size-sm">Hardware-Software Co-Design</span>
+  <span class="research-tag size-lg">Large Language Models</span>
+  <span class="research-tag size-sm">...</span>
 </div>
 </section>
 
@@ -174,19 +173,15 @@ redirect_from:
     <div style="font-size: 0.88rem; line-height: 1.8;">
       <div style="display: flex; align-items: flex-start; gap: 0.5em; margin-bottom: 0.5em;">
         <i class="fas fa-check-circle icon-blue" style="margin-top: 0.25em;"></i>
-        <span><strong>National Computer Rank Exam Level 4</strong> — Network Engineer</span>
+        <span><strong>National Computer Rank Exam Level 4</strong>  Network Engineer</span>
       </div>
       <div style="display: flex; align-items: flex-start; gap: 0.5em; margin-bottom: 0.5em;">
         <i class="fas fa-check-circle icon-green" style="margin-top: 0.25em;"></i>
-        <span><strong>Information Security Professional Certificate</strong> — Level 1</span>
+        <span><strong>Information Security Professional Certificate</strong></span>
       </div>
       <div style="display: flex; align-items: flex-start; gap: 0.5em; margin-bottom: 0.5em;">
         <i class="fas fa-check-circle icon-blue" style="margin-top: 0.25em;"></i>
-        <span><strong>Shanghai Higher Education IT Proficiency</strong> — Level 2 C Programming</span>
-      </div>
-      <div style="display: flex; align-items: flex-start; gap: 0.5em;">
-        <i class="fas fa-check-circle icon-green" style="margin-top: 0.25em;"></i>
-        <span><strong>Alipay Junior Web Front-End Developer</strong> Certification</span>
+        <span><strong>Shanghai Higher Education IT Proficiency</strong>  Level 2 in C Programming</span>
       </div>
     </div>
   </div>
@@ -213,10 +208,10 @@ redirect_from:
 </section>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     💼 EXPERIENCE — Accordion Timeline
+     💼 Internships — Accordion Timeline
      ═══════════════════════════════════════════════════════════════════════ -->
 <section id="experience">
-<h2><span class="section-icon">💼</span> Experience</h2>
+<h2><span class="section-icon">💼</span> Internships</h2>
 
 <div class="timeline">
 
@@ -240,11 +235,11 @@ redirect_from:
     <div class="accordion-body">
       <div class="accordion-content">
         <ul>
-          <li>Participated in the algorithm development of an <strong>embedded AI-based indirect tire pressure monitoring system (iTPMS)</strong> for commercial vehicles, leveraging existing vehicle sensors to implement a hybrid mathematical-AI algorithm on resource-constrained automotive ECUs, enabling real-time deployment of AI under strict latency, cost, and reliability constraints.</li>
-          <li>Addressed harsh operating conditions of commercial vehicles and sensor limitations by applying multiple advanced denoising techniques, removing <strong>over 90% of environmental noise</strong> and abnormal signals, and extracting more than <strong>10 relevant features</strong>.</li>
-          <li>Built and trained deep neural network models in TensorFlow to deeply fuse multi-scale features from various sensors, significantly improving tire pressure estimation stability and robustness.</li>
-          <li>Reconstructed and generated embedded code using MATLAB/Simulink based on validated models, providing technical support for subsequent vehicle-level deployment and real-time operation.</li>
-          <li>Utilized Git for version control and team collaboration, establishing a complete algorithm development–deployment–testing workflow, ensuring traceability and iterative improvement of model versions.</li>
+            <li>Participated in the development of an <strong>embedded AI-based indirect tire pressure monitoring system (iTPMS)</strong> for commercial vehicles, introducing a hybrid physics-informed and neural network algorithm on cost-effective automotive ECUs to achieve real-time and accurate tire pressure estimation using existing vehicle sensors.</li>
+            <li>Addressed challenges from harsh vehicle operating conditions and limited sensor accuracy by integrating multiple advanced denoising techniques, removing over <strong>90% of environmental noise and abnormal operating signals</strong>, and significantly improving input data quality.</li>
+            <li>Built and trained deep neural network models using TensorFlow to fuse multi-scale features from heterogeneous vehicle sensors, enhancing the stability and robustness of tire pressure estimation under complex driving conditions.</li>
+            <li>Optimized AI models for resource-constrained ECU deployment by applying feature selection methods based on statistical analysis (e.g., correlation analysis), reducing over <strong>40 candidate features to more than 10 key features</strong> while maintaining model performance and reducing computational complexity.</li>
+            <li>Reconstructed validated models using MATLAB/Simulink and generated embedded C code, providing technical support for subsequent vehicle-level deployment and real-time operation.</li>
         </ul>
         <div class="exp-tags">
           <span class="exp-tag">TensorFlow</span>
@@ -279,9 +274,9 @@ redirect_from:
       <div class="accordion-content">
         <ul>
           <li>Assisted in developing an intelligent customer service system based on the WhatsApp Business API, leveraging the <strong>Qwen 3.0 large language model</strong> to create an end-to-end automated workflow for medical imaging appointment booking, enabling real-time request processing and automated scheduling.</li>
-          <li>Designed prompt engineering and context management mechanisms for <strong>Cantonese and Traditional Chinese</strong> scenarios, ensuring user requests were accurately routed to the corresponding processing modules, achieving <strong>~95% intent recognition accuracy</strong> and ~90% task completion rate in multi-turn conversations.</li>
-          <li>Conducted black-box testing and defect tracking for dialogue flow and intent recognition modules, simulating end-user appointment interactions, validating system responses, and using <strong>SQL commands in MySQL</strong> to clean specific test session records, ensuring data isolation and reproducibility.</li>
-          <li>Used <strong>Docker</strong> to containerize the development environment, enabling rapid independent deployment and debugging of system components, improving team development efficiency.</li>
+          <li>Designed system prompts and context management mechanisms for Cantonese and Traditional Chinese scenarios; optimized multi-turn dialogue flows through key slot-filling, accurately routing user requests to the corresponding modules, achieving 95% intent recognition accuracy and 90% task completion rate.</li>
+          <li>Incorporated retrieval-augmented generation (RAG) to handle professional medical Q&A scenarios such as examination instructions and medication usage, validating consistency between retrieved content and model responses to reduce hallucination risk and improve answer accuracy and consistency.</li>
+          <li>Conducted black-box testing and defect tracking of dialogue flows, simulating end-to-end user appointment interactions to verify system responses, and used SQL commands on MySQL databases to clean up specific test session records, ensuring data isolation and reproducibility of the test environment.</li>
         </ul>
         <div class="exp-tags">
           <span class="exp-tag">LLM (Qwen 3.0)</span>
@@ -390,9 +385,9 @@ redirect_from:
           <span class="exp-sub-module algo"><i class="fas fa-brain"></i> Algorithm</span>
         </div>
         <ul style="margin-top: 0.5rem;">
-          <li><strong>[Hardware]</strong> Designed a microwave detection circuit based on <strong>ESP32 MCU</strong>, integrating a voltage-controlled oscillator and detector to generate/receive microwave signals, combined with an active Fano-resonance microwave sensor for highly sensitive glucose measurements.</li>
-          <li><strong>[Software]</strong> Developed a mobile Android app in <strong>Android Studio</strong> for UI, parameter configuration, and data visualization; implemented a local SQLite database and used <strong>Bluetooth Low Energy (BLE)</strong> for device connection and real-time data transmission.</li>
-          <li><strong>[Algorithm]</strong> Quantified the relationship between S-parameters and glucose concentration, using cubic polynomial fitting for glucose prediction (RMSE ~1.0 mmol/L). Applied <strong>adaptive DBSCAN clustering</strong> to identify and remove outliers, effectively handling device drift, user errors, and environmental noise; achieved anomaly detection F1 score >95%.</li>
+          <li><strong>[Algorithm]</strong> Established a quantitative mapping model between microwave S-parameters and glucose concentration through experimental analysis, applying cubic polynomial fitting for glucose prediction with an <strong>RMSE of approximately 1.0 mmol/L</strong>. Introduced an adaptive DBSCAN clustering algorithm to identify and remove abnormal measurements caused by device drift, user operation errors, and environmental interference, achieving an anomaly detection <strong>F1 score above 95%</strong>.</li>
+          <li><strong>[Software]</strong> Developed an Android mobile application using <strong>Android Studio</strong>, implementing user interface design, parameter configuration, and real-time data visualization. Built a local SQLite database for data management and utilized <strong>Bluetooth Low Energy (BLE)</strong> for device connectivity and real-time data transmission.</li>
+          <li><strong>[Hardware]</strong> Designed a microwave detection circuit based on an <strong>ESP32 MCU</strong>, integrating a voltage-controlled oscillator and detector for microwave signal generation and reception. Combined the circuit with an active artificial surface plasmon polariton (ASPP) Fano-resonance microwave sensor to achieve highly sensitive measurement of glucose-related microwave S-parameter responses.</li>
         </ul>
         <div class="exp-tags">
           <span class="exp-tag">ESP32</span>
@@ -527,6 +522,29 @@ redirect_from:
   author    = {Han, Yutang},
   year      = {2026},
   number    = {2026SR0233395},
+  publisher = {National Copyright Administration of China}
+}</div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-content">
+      <div class="pub-title"><i class="fas fa-copyright icon-blue"></i> Microwave Non-invasive Blood Glucose Monitoring System V1.0</div>
+      <div class="pub-meta">
+        <span><i class="fas fa-building"></i> National Copyright Administration of China</span>
+        <span><i class="fas fa-hashtag"></i> Reg. No. 2026SR0560292</span>
+        <span><i class="far fa-calendar-alt"></i> 2024</span>
+      </div>
+    </div>
+    <div class="pub-actions">
+      <span class="pub-btn bibtex" onclick="var el=this.nextElementSibling;el.classList.toggle('show');">
+        <i class="fas fa-quote-right"></i> BibTeX
+      </span>
+      <div class="bibtex-content">@misc{microwaveglucose2024,
+  title     = {Microwave Non-invasive Blood Glucose Monitoring System V1.0},
+  author    = {Han, Yutang},
+  year      = {2024},
+  number    = {2026SR0560292},
   publisher = {National Copyright Administration of China}
 }</div>
     </div>
@@ -678,7 +696,7 @@ redirect_from:
     <div class="activity-desc">
       Selected for the 3rd SKL-IOTSC Summer Camp at UM. Visited advanced lab facilities, interactive discussions with researchers, and lectures on Intelligent Sensing, Urban Big Data, Smart Energy, and Intelligent Transportation.
     </div>
-    <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" class="activity-link"><i class="fas fa-external-link-alt"></i> Learn more</a>
+    <a href="https://skliotsc.um.edu.mo/um-organises-3rd-skl-iotsc-summer-camp-for-outstanding-university-students/" target="_blank" class="activity-link"><i class="fas fa-external-link-alt"></i></a>
   </div>
 
   <div class="activity-card">
@@ -689,7 +707,7 @@ redirect_from:
     <div class="activity-desc">
       Selected for the Summer Camp organized by the Function Hub, engaging with research thrusts in advanced materials, microelectronics, sustainable energy and environment, and cross-disciplinary innovation in smart city technologies.
     </div>
-    <a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank" class="activity-link"><i class="fas fa-external-link-alt"></i> Learn more</a>
+    <a href="https://mp.weixin.qq.com/s/U0oRLA9g9eZ7A9FKwxSL6g" target="_blank" class="activity-link"><i class="fas fa-external-link-alt"></i></a>
   </div>
 
   <div class="activity-card">
@@ -702,12 +720,5 @@ redirect_from:
 
 </div>
 </section>
-
-<!-- Language Switch -->
-<div style="text-align: center; margin: 2rem 0 1rem;">
-  <a href="{{ base_path }}/zh/" class="lang-switch" title="切换到中文" style="display: inline-flex; align-items: center; gap: 0.3em; padding: 0.5em 1em; border: 1px solid #e9ecef; border-radius: 20px; font-size: 0.88rem; font-weight: 600; text-decoration: none; color: #2d3436; background: #fff; transition: background 0.25s, border-color 0.25s;">
-    <i class="fas fa-language"></i> 切换到中文
-  </a>
-</div>
 
 </div>
