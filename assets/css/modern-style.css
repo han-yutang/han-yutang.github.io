@@ -569,6 +569,8 @@
   width: 40px !important;
   min-width: 40px !important;
   height: 40px !important;
+  max-width: 40px !important;
+  max-height: 40px !important;
   object-fit: contain;
   object-position: center;
   border-radius: 4px;
