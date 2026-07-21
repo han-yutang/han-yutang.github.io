@@ -325,33 +325,6 @@ redirect_from:
       </div>
     </div>
   </div>
-
-  <!-- Part-time TA -->
-  <div class="timeline-item">
-    <div class="timeline-dot internship"></div>
-    <input type="checkbox" class="accordion-toggle" id="exp-ta">
-    <label class="accordion-header" for="exp-ta">
-      <div class="accordion-header-left">
-        <div class="company-logo"><i class="fas fa-chalkboard-teacher"></i></div>
-        <div class="exp-info">
-          <div class="exp-title">Part-time Teaching Assistant</div>
-          <div class="exp-company">Shanghai Hou Zai Education Consulting Co., Ltd.</div>
-        </div>
-      </div>
-      <div class="exp-meta-right">
-        <span class="exp-date"><i class="far fa-calendar-alt"></i> 2022.01 – 2023.12</span>
-        <i class="fas fa-chevron-down accordion-arrow"></i>
-      </div>
-    </label>
-    <div class="accordion-body">
-      <div class="accordion-content">
-        <ul>
-          <li>Provided weekend tutoring for high school mathematics, helping students understand and master key concepts to improve academic performance.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
 </div>
 </section>
 
@@ -372,7 +345,7 @@ redirect_from:
         <div class="company-logo" style="background: #fce4ec; color: #c62828;"><i class="fas fa-heartbeat"></i></div>
         <div class="exp-info">
           <div class="exp-title">Microwave Non-Invasive Blood Glucose Monitoring System</div>
-          <div class="exp-company">Undergraduate Capstone Project</div>
+          <div class="exp-company">SHU Graduation Project</div>
         </div>
       </div>
       <div class="exp-meta-right">
@@ -400,9 +373,11 @@ redirect_from:
           <span class="exp-tag">Microwave Sensing</span>
           <span class="exp-tag">SQLite</span>
         </div>
+        <!-- Project Link
         <div class="exp-links">
           <a href="https://github.com/ChirsDickman" target="_blank" class="exp-link-btn"><i class="fab fa-github"></i> View Project</a>
         </div>
+        -->
       </div>
     </div>
   </div>
@@ -426,15 +401,11 @@ redirect_from:
     </label>
     <div class="accordion-body">
       <div class="accordion-content">
-        <div class="exp-sub-modules">
-          <span class="exp-sub-module sw"><i class="fas fa-mobile-alt"></i> Software</span>
-          <span class="exp-sub-module algo"><i class="fas fa-brain"></i> Algorithm</span>
-        </div>
         <ul style="margin-top: 0.5rem;">
-          <li><strong>[Preprocessing]</strong> Combined Gaussian denoising and Laplacian sharpening with adaptive alpha blending to enhance gland contrast and boundary clarity.</li>
-          <li><strong>[Multi-Stage Segmentation]</strong> Developed a two-stage segmentation pipeline for eyelids and glands, leveraging a suite of U-Net variants (nnU-Net, U-Net++, Attention U-Net, ResUNet), achieving a <strong>peak IoU of 0.9022</strong> on the test dataset.</li>
-          <li><strong>[Feature Engineering & Classification]</strong> Extracted comprehensive morphological and texture features from segmented glands and employed a <strong>Random Forest classifier</strong> to accurately predict gland atrophy levels with strong interpretability.</li>
-          <li><strong>[GUI]</strong> Built a <strong>PyQt-based</strong> user interface enabling seamless image import/export, real-time segmentation visualization, and automated Meiboscore assessment, streamlining clinical workflow and usability.</li>
+          <li>Developed an AI-assisted ophthalmic image analysis system for automated Meibomian gland assessment, integrating image enhancement, segmentation, feature extraction, and clinical indicator prediction.</li>
+          <li>Implemented a multi-stage segmentation framework based on U-Net variants (U-Net, U-Net++, Attention U-Net, nnU-Net, ResUNet), achieving a <strong>maximum IoU of 0.9022</strong>.</li>
+          <li>Extracted morphological and texture features from segmented glands and developed an interpretable <strong>Random Forest classifier</strong> for automated Meiboscore-based gland atrophy assessment.</li>
+          <li>Developed a <strong>PyQt-based</strong> graphical interface enabling image visualization, segmentation result inspection, and automated assessment workflow.</li>
         </ul>
         <div class="exp-tags">
           <span class="exp-tag">U-Net</span>
@@ -446,8 +417,10 @@ redirect_from:
           <span class="exp-tag">Medical Imaging</span>
         </div>
         <div class="exp-links">
+          <!--
           <a href="https://github.com/ChirsDickman" target="_blank" class="exp-link-btn"><i class="fab fa-github"></i> View Project</a>
         </div>
+        -->
       </div>
     </div>
   </div>
@@ -461,7 +434,7 @@ redirect_from:
         <div class="company-logo" style="background: #e8f5e9; color: #2e7d32;"><i class="fas fa-thermometer-half"></i></div>
         <div class="exp-info">
           <div class="exp-title">IoT-Based Thermostatic Biological Incubator</div>
-          <div class="exp-company">Shanghai University Course Project</div>
+          <div class="exp-company">SHU Capstone Project</div>
         </div>
       </div>
       <div class="exp-meta-right">
@@ -489,9 +462,11 @@ redirect_from:
           <span class="exp-tag">NBIoT</span>
           <span class="exp-tag">Android</span>
         </div>
+        <!--
         <div class="exp-links">
           <a href="https://github.com/ChirsDickman" target="_blank" class="exp-link-btn"><i class="fab fa-github"></i> View Project</a>
         </div>
+        -->
       </div>
     </div>
   </div>
@@ -522,7 +497,7 @@ redirect_from:
     <div class="pub-content">
       <div class="pub-title"><i class="fas fa-copyright icon-blue"></i> Microwave Non-invasive Blood Glucose Monitoring System V1.0</div>
       <div class="pub-meta">
-        <span><i class="fas fa-building"></i> National SoftwareCopyright Administration of China</span>
+        <span><i class="fas fa-building"></i> National Software Copyright Administration of China</span>
         <span><i class="fas fa-hashtag"></i> Reg. No. 2026SR0560292</span>
         <span><i class="far fa-calendar-alt"></i> 2024</span>
       </div>
