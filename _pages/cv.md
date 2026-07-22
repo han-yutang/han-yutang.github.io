@@ -36,9 +36,6 @@ redirect_from:
       <span><i class="fas fa-map-marker-alt"></i> Hong Kong SAR</span>
       <span><i class="fas fa-graduation-cap"></i> Full-time</span>
     </div>
-    <div class="edu-scholarships">
-      <span class="edu-scholarship"><i class="fas fa-star"></i> Department-Level Scholarship <em>2025</em></span>
-    </div>
     <div class="course-tags">
       <span class="course-tag">IP Networks</span>
       <span class="course-tag">Computer Vision</span>
