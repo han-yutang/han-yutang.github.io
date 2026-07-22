@@ -24,7 +24,8 @@ author:
   # Biographic information
   avatar           : "ChatGPT Image 2025年9月6日 19_14_58.png"
   name             : "Han Yutang"
-  bio              : "M.Eng Graduate at HKU<br>Embedded AI · Edge Computing · Intelligent Sensing<br>Actively seeking PhD & full-time opportunities<br>"
+  status           : "🔍 Seeking PhD & full-time opportunities"
+  bio              : "M.Eng @ HKU — Embedded AI · Intelligent Sensing · LLMs"
   email            : "ythan@connect.hku.hk"
   location         : "Shanghai, China"
 
