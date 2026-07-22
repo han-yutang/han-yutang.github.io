@@ -43,9 +43,28 @@
   font-size: 1.2em;
 }
 
-/* ── Sidebar: hide the original Follow button ─────────────────────────── */
+/* ── Sidebar Cleanup ──────────────────────────────────────────────────── */
+/* Hide the original Follow button */
 .author__urls-wrapper button {
   display: none !important;
+}
+
+/* Center name under avatar on desktop */
+@media screen and (min-width: 1024px) {
+  .sidebar .author__content {
+    text-align: center;
+  }
+}
+
+/* Tighter, cleaner link list */
+.author__urls {
+  font-size: 0.9rem;
+}
+.author__urls li {
+  margin-bottom: 2px;
+}
+.author__urls a {
+  padding: 3px 0;
 }
 
 /* ── Section Layout ────────────────────────────────────────────────────── */
