@@ -843,7 +843,75 @@
 }
 
 /* ==========================================================================
-   🚀 PROJECTS — Featured Cards
+   🚀 PROJECTS — Left Image + Right Text Row
+   ========================================================================== */
+.project-row {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.25rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition);
+  margin-bottom: 1.25rem;
+}
+
+.project-row:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.project-row-img {
+  width: 200px;
+  min-width: 200px;
+  height: 140px;
+  border-radius: var(--radius-sm);
+  object-fit: cover;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.project-row-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-row-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text);
+  margin-bottom: 0.35rem;
+}
+
+.project-row-desc {
+  font-size: 0.88rem;
+  color: var(--text-light);
+  line-height: 1.55;
+  margin-bottom: 0.6rem;
+}
+
+.project-row-body .project-tech-stack {
+  margin-bottom: 0.6rem;
+}
+
+.project-row-body .project-links {
+  display: flex;
+  gap: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  .project-row {
+    flex-direction: column;
+  }
+  .project-row-img {
+    width: 100%;
+    min-width: auto;
+    height: 160px;
+  }
+}
+
+/* ==========================================================================
+   🚀 PROJECTS — Featured Cards (legacy, used on homepage)
    ========================================================================== */
 .projects-grid {
   display: grid;
